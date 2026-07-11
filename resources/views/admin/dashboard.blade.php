@@ -12,6 +12,7 @@
         <p class="mt-1 text-sm text-slate-500">{{ $greeting['date'] }} &middot; {{ $greeting['institution'] }}</p>
     </div>
     <div class="flex shrink-0 flex-wrap items-center gap-2">
+        <x-portal.button size="sm" variant="secondary" href="{{ route('admin.exam-reports.index') }}">Exam Reports</x-portal.button>
         <x-portal.button size="sm" variant="secondary" href="{{ route('admin.change-requests.index') }}">Change Requests</x-portal.button>
         <x-portal.button size="sm" variant="secondary" href="{{ route('admin.settings.index') }}">Site Settings</x-portal.button>
         <x-portal.button size="sm" href="{{ route('admin.website.index') }}">Website CMS</x-portal.button>

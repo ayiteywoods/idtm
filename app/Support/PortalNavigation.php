@@ -41,6 +41,7 @@ class PortalNavigation
                 [
                     'label' => 'Operations',
                     'items' => [
+                        ['label' => 'Exam Reports', 'route' => route('admin.exam-reports.index'), 'active' => 'admin.exam-reports.*', 'icon' => 'grade'],
                         ['label' => 'Change Requests', 'route' => route('admin.change-requests.index'), 'active' => 'admin.change-requests.*', 'icon' => 'swap'],
                     ],
                 ],

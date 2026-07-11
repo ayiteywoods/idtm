@@ -55,6 +55,8 @@ Route::middleware(['auth', 'role:admin'])->prefix('admin')->name('admin.')->grou
     Route::get('/courses/{course}/edit', [AdminDashboardController::class, 'editCourse'])->name('courses.edit');
     Route::put('/courses/{course}', [AdminDashboardController::class, 'updateCourse'])->name('courses.update');
     Route::delete('/courses/{course}', [AdminDashboardController::class, 'destroyCourse'])->name('courses.destroy');
+    Route::get('/exam-reports', [AdminDashboardController::class, 'examReports'])->name('exam-reports.index');
+    Route::get('/exam-reports/{course}/print', [AdminDashboardController::class, 'printExamReport'])->name('exam-reports.print');
     Route::get('/change-requests', [AdminDashboardController::class, 'changeRequests'])->name('change-requests.index');
     Route::patch('/change-requests/{changeRequest}', [AdminDashboardController::class, 'reviewChangeRequest'])->name('change-requests.review');
     Route::delete('/change-requests/{changeRequest}', [AdminDashboardController::class, 'destroyChangeRequest'])->name('change-requests.destroy');

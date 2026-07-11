@@ -18,6 +18,7 @@ use App\Models\StudentProfile;
 use App\Models\User;
 use App\Services\PageBlockUploader;
 use App\Support\AdminDashboardData;
+use App\Support\ExamReport;
 use App\Support\HomeHeroSettings;
 use App\Support\SitePageContent;
 use App\Support\SiteSettings;
@@ -512,6 +513,47 @@ class DashboardController extends Controller
                 'approved' => ChangeRequest::where('status', 'approved')->count(),
                 'rejected' => ChangeRequest::where('status', 'rejected')->count(),
             ],
+        ]);
+    }
+
+    public function examReports(Request $request): View
+    {
+        $courses = Course::with('programme')->orderBy('code')->get();
+        $cohorts = Cohort::orderBy('name')->get();
+
+        $courseId = (int) $request->query('course');
+        $cohortId = (int) $request->query('cohort') ?: null;
+        $type = (string) $request->query('type', 'all');
+
+        $course = $courseId ? $courses->firstWhere('id', $courseId) : null;
+        $report = $course ? ExamReport::build($course, $cohortId, $type) : null;
+
+        return view('admin.exam-reports.index', [
+            'courses' => $courses,
+            'cohorts' => $cohorts,
+            'course' => $course,
+            'selectedCohort' => $cohortId ? $cohorts->firstWhere('id', $cohortId) : null,
+            'type' => in_array($type, ExamReport::TYPES, true) ? $type : 'all',
+            'typeLabel' => ExamReport::typeLabel($type),
+            'report' => $report,
+        ]);
+    }
+
+    public function printExamReport(Request $request, Course $course): View
+    {
+        $cohortId = (int) $request->query('cohort') ?: null;
+        $type = (string) $request->query('type', 'all');
+
+        $course->load('programme');
+
+        return view('admin.exam-reports.print', [
+            'course' => $course,
+            'cohort' => $cohortId ? Cohort::find($cohortId) : null,
+            'type' => in_array($type, ExamReport::TYPES, true) ? $type : 'all',
+            'typeLabel' => ExamReport::typeLabel($type),
+            'report' => ExamReport::build($course, $cohortId, $type),
+            'siteName' => SiteSetting::get('site_name', config('app.name')),
+            'passMark' => ExamReport::PASS_MARK,
         ]);
     }
 
