@@ -1,0 +1,4995 @@
+[
+    {
+        "type": "table",
+        "title": "PHILOSOPHY",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "STUMPF S. E.",
+                "PHILOSOPHICAL PROBLEMS",
+                "McGRAW-HILL",
+                "1994",
+                "0069",
+                "B29.P54"
+            ],
+            [
+                "FODOR JERRY",
+                "IN CRITICAL CONDITION",
+                "MIT PRESS",
+                "1998",
+                "0066, 0067",
+                "BD418.3.F68"
+            ],
+            [
+                "PALMER DONALD",
+                "DOES THE CENTER HOLD",
+                "MAYFIELD",
+                "1996",
+                "0070",
+                "BD21.P18"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "LOGIC",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "LAYMAN C. STEPHEN",
+                "THE POWER OF LOGIC",
+                "MAYFIELD",
+                "2000",
+                "0072",
+                "BC71.L45"
+            ],
+            [
+                "LAYMAN C. STEPHEN",
+                "THE POWER OF LOGIC",
+                "McGRAW-HILL",
+                "2002",
+                "0073",
+                "BC61.L45"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "ETHICS AND SOCIAL USAGES",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "BOSS JUDITH A.",
+                "ANALYSING MORAL ISSUES",
+                "MAYFIELD",
+                "1999",
+                "0157",
+                "BJ1031.B65"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "RELIGION",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "AHMAD, HADHART MIRZA GHULAM",
+                "THE PHILOSOPHY OF THE TEACHINGS OF ISLAM",
+                "LONDON MOSQUE",
+                "1979",
+                "0088",
+                "BP195.A5Ah5"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "HISTORY OF CIVILIZATION",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "KISHLANSKY, MARK",
+                "CIVILIZATION IN THE WEST",
+                "LONGMAN",
+                "2001",
+                "0110",
+                "CB245.K64"
+            ],
+            [
+                "CHAMBERS, MORTIMER",
+                "THE WESTERN EXPERIENCE",
+                "McGRAW-HILL",
+                "199",
+                "0107, 0108,0109",
+                "CB59.W52"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "ARCHEOLOGY",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "FEDER, KENNETH, L.",
+                "FRAUDS, MYTHS AND MYSTERIES: SCIENCE AND PSEUDOSCEINCE IN ARCHEOLOGY",
+                "McGRAW-HILL",
+                "2002",
+                "0096",
+                "CC140.F31"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "HISTORY",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "BOAHEN, A. ADU",
+                "CLIO AND NATION-BUILDING IN AFRICA",
+                "GHANA UNIVERSITIES PRESS",
+                "1975",
+                "0328",
+                "D8.B64"
+            ],
+            [
+                "PALMER, R.R",
+                "A HISTORY OF THE MODERN WORLD",
+                "McGRAW-HILL",
+                "1995",
+                "0104",
+                "D209.P18"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "GERMANY",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "TOLAND, JOHN",
+                "ADOLF HITLER II",
+                "DOUBLEDAY AND COMPANY",
+                "1976",
+                "0091",
+                "DD247.H5T57"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "GEOGRAPHY",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "CLARKE, KEITH, C.",
+                "GETTING STARTED WITH GEOGRAPHICAL INFORMATION SYSTEMS",
+                "PRENTICE HALL",
+                "2001",
+                "0063",
+                "G70.21.C55"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "ENVIRONMENTAL SCEINCE",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "Resources Policy Support Initiative",
+                "MAKING REGIONAL ENVIRONMENT GOVERNANCE: PERSPECTIVES ON OPPORTUNITIES AND CHALLENGES (PAPERS)",
+                "0362",
+                "GE190.M54M47",
+                "",
+                ""
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "ANTHROPOLOGY",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "CREWE, EMMA",
+                "WHOSE DEVELOPMENT? : AN ETHNOGRAPHY OF AID",
+                "ZEDBOOKS",
+                "1998",
+                "0167",
+                "GN397.7.A78C86"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "ECONOMICS",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "GUJARATI, DAMODAR",
+                "ESSENTIALS OF ECONOMETRICS",
+                "McGRAW-HILL",
+                "1992",
+                "0010",
+                "HB139.G94"
+            ],
+            [
+                "PINDYCK, ROBERT S.",
+                "MICROECONOMICS",
+                "MACMILLAN",
+                "1989",
+                "0001",
+                "HB172.P65"
+            ],
+            [
+                "ENGMANN, E.V.T.",
+                "POPULATION OF GHANA",
+                "GUP",
+                "1986",
+                "0243",
+                "HB3666.8.A3En3"
+            ],
+            [
+                "ROSSER, J. BARKEY Jr.",
+                "COMPARATIVE ECONOMICS IN A TRANSFORMING WORLD ECONOMY",
+                "McGRAW-HILL",
+                "1996",
+                "0009, 0359",
+                "HB90.R73"
+            ],
+            [
+                "BRENNER, Y.S.",
+                "THEORIES OF ECONOMIC DEVELOPMENT AND GROWTH",
+                "FREDRICK A. PRAEGER",
+                "1966",
+                "0146",
+                "HB171BRE75"
+            ],
+            [
+                "BONSU, OHENE KWEKU",
+                "A HANDBOOK ON BUSINESS PARTNERSHIP",
+                "IEL",
+                "2006",
+                "0030",
+                "HB615.B64"
+            ],
+            [
+                "GHOSH, SUKESH K.",
+                "THEORY AND APPLICATIONS",
+                "PRENTICE-HALL",
+                "1991",
+                "0132",
+                "HB139.G34"
+            ],
+            [
+                "SHARP, ANSEL M.",
+                "ECONOMICS OF SOCIAL ISSUES",
+                "McGRAW-HILL",
+                "2000",
+                "0006",
+                "HB171.5.S2"
+            ],
+            [
+                "FUSFELD, DANIEL R.",
+                "ECONOMICS: PRINCIPLES OF POLITICAL ECONOMY",
+                "SCOTT, FORESMAN AND CO.",
+                "1982",
+                "0008",
+                "HB171.5.F98"
+            ],
+            [
+                "McCONNELL, CAMPBELL, R.",
+                "ECONOMICS: PRINCIPLES, PROBLEMS, AND POLICIES",
+                "McGRAW-HILL",
+                "2002",
+                "0004",
+                "HB171.5.M31"
+            ],
+            [
+                "SCHILLER, BRADLEY R.",
+                "THE ECONOMY TODAY",
+                "RANDOM HOUSE",
+                "1989",
+                "0005",
+                "HB171.5.S3"
+            ],
+            [
+                "SCHILLER, BRADLEY R.",
+                "THE MACRO ECONOMY TODAY",
+                "McGRAW-HILL",
+                "2000",
+                "0003",
+                "HB172.5.S3"
+            ],
+            [
+                "SCHILLER, BRADLEY R.",
+                "THE MICRO ECONOMY TODAY",
+                "McGRAW-HILL",
+                "2000",
+                "0002",
+                "HB172.S3"
+            ],
+            [
+                "BREIMYER, HAROLD, F.",
+                "FARM POLICY: 13 ESSAYS",
+                "LOWA STATE UNI. PRESS",
+                "1977",
+                "0141",
+                "HB1759.B82"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "FINANCE\/TRADE",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "EWUSI, KODWO",
+                "THE PROCESS OF INDUSTRIALIZATION IN GHANA",
+                "1981",
+                "0358",
+                "HC125.Ew9",
+                ""
+            ],
+            [
+                "WORLD BANK",
+                "ACCELERATED DEVELOPMENT IN SUB-SAHARAN AFRICA",
+                "THE WORLD BANK",
+                "1981",
+                "0106",
+                "HC800.A2"
+            ],
+            [
+                "KAPPAGODA, NIHAL",
+                "THE COST OF FOREIGN AID TO DEVELOPING COUNTRIES",
+                "IDRC",
+                "1978",
+                "0293",
+                "HC60.K14"
+            ],
+            [
+                "INTERNATIONAL DEVELOPMENT RESEARCH CENTRE",
+                "WITH OUR OWN HANDS; RESEARCH FOR THIRD WORLD DEVELOPMENT; CANADA’S CONTRIBUTION THROUGH THE INTERNATIONAL DEVELOPMENT RESEARCH CENTER, 1970-1985",
+                "IDRC",
+                "1986",
+                "0286",
+                "HC59.72.F44In8"
+            ],
+            [
+                "BAAH-NUAKOH, AMOAH",
+                "STUDIES ON THE GHANAIAN ECONOMY VOLUME 1:THE PRE-“REVOLUTIONARY” YEARS, 1957-1981",
+                "GUP",
+                "1997",
+                "0246",
+                "HC1060.B11"
+            ],
+            [
+                "BRITTON, JOHN N.H",
+                "THE WEAKEST LINK: A TECHNOLOGICAL PERSPECTIVE ON CANADIAN INDUSTRIAL UNDERDEVELOPMENT",
+                "1978",
+                "0173",
+                "HC120.T4B77",
+                ""
+            ],
+            [
+                "THOMAS, D. BABATUNDE",
+                "CAPITAL ACCUMULATION AND TECHNOLOGY TRANSFER: A COMPARATIVE ANALYSIS OF NIGERIAN MANUFACTURING INDUSTRIES.",
+                "PRAEGER",
+                "1975",
+                "0185",
+                "HC517.N36"
+            ],
+            [
+                "CENTER ON INTEGRATED RURAL DEVELOPMENT FOR ASIA AND THE PACIFIC COMILLA AND THE IDS, BRIGHTON, SUSSEX",
+                "RURAL TECHNOLOGY, RURAL INSTITUTIONS AND THE RURAL POOREST: PROCEEDINGS OF A WORKSHOP.",
+                "CIRDAP",
+                "1982",
+                "0135",
+                "HC430.6.Z9R88"
+            ],
+            [
+                "UNCSTD",
+                "KNOWLEDGE SOCIETIES: INFORMATION TECHNOLOGIES FOR SUSTAINABLE DEVELOPMENT",
+                "OXFORD UNI. PRESS",
+                "1998",
+                "0158, 0062",
+                "HC59.72.K76"
+            ],
+            [
+                "LARTEY, EMMANUEL",
+                "TECHNOLOGY FOR DEVELOPMENT: THE CASE OF A DEVELOPING COUNTRY, GHANA",
+                "0307",
+                "HC1060Z9L32",
+                "",
+                ""
+            ],
+            [
+                "AIDA OPOKU-MENSAH M.A MOHAMED SALIH",
+                "AFRICAN E-MARKETS: INFORMATION AND ECONOMIC DEVELOPMENT",
+                "ECA",
+                "2007",
+                "0144",
+                "HC800Z9Af3"
+            ],
+            [
+                "DAVID, PAUL, A.",
+                "TECHNICAL CHOICE INNOVATION AND ECONOMIC GROWTH: ESSAYS ON AMERICAN AND BRITISH EXPERIENCE IN THE NINETEENTH CENTURY",
+                "CAMBRIDGE UNI. PRESS",
+                "1957",
+                "0189",
+                "HC110.T4D28"
+            ],
+            [
+                "POVERTY ALLEVIATION IN TANZANIA: RECENT RESEARCH ISSUES",
+                "DUP",
+                "1994",
+                "0098",
+                "HC885.Z9P86",
+                ""
+            ],
+            [
+                "ERNEST ARYEETEY",
+                "PLANNING AFRICAN GROWTH AND DEVELOPMENT: SOME CURRENT ISSUES",
+                "1992",
+                "0170",
+                "HC800.P67",
+                ""
+            ],
+            [
+                "KILLICK, TONY",
+                "DEVELOPMENT ECONOMICS IN ACTION: A STUDY OF ECONOMIC POLICIES IN GHANA",
+                "ROUTLEDGE",
+                "2010",
+                "0195, 0203, 0490",
+                "HC1060.K55"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "DEVELOPMENT AND MANAGEMENT",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "ANDERSON, DAVID R.",
+                "AN INTRODUCTION TO MANAGEMENT SCIENCE: QUANTITATIVE APPROACHES TO DECISION MAKING",
+                "THOMSON",
+                "2003",
+                "0018",
+                "HD30.25.A2"
+            ],
+            [
+                "PEARCE II, JOHN A.",
+                "FORMULATION, IMPLEMENTATION AND CONTROL OF COMPETITIVE STRATEGY",
+                "McGRAW-HILL",
+                "2000",
+                "0283",
+                "HD30.28.P31"
+            ],
+            [
+                "KELLER, GERALD",
+                "STATISTICS FOR MANAGEMENT AND ECONOMICS",
+                "THOMSON",
+                "2003",
+                "0055",
+                "HD30.215K29"
+            ],
+            [
+                "WILSON, HOLTON, J.",
+                "BUSINESS FORECASTING",
+                "McGRAW-HILL",
+                "1994",
+                "0015",
+                "HD30.27.W.69"
+            ],
+            [
+                "DELLIMORE, JEFFREY, W.",
+                "CARIBBEAN TECHNOLOGY POLICY STUDIES PROJECT: SECONDARY AGRO-BASED INDUSTRIES; ECCM AND BARBADOS",
+                "1984",
+                "0184",
+                "HD9014.B352D38",
+                ""
+            ],
+            [
+                "ADEI, STEPHEN",
+                "TECHNOLOGY TRANSFER AND NATIONALIZATION IN GHANA: AFRICAN STUDIES IN TECHNOLOGY POLICY",
+                "IDRC",
+                "1987",
+                "0181",
+                "HD9767.G52Ad3"
+            ],
+            [
+                "FRAME, DAVIDSON, J.",
+                "PROJECT MANAGEMENT COMPETENCE: BUILDING KEY SKILLS FOR INDIVIDUALS, TEAMS, AND ORGANISATIONS",
+                "JOSSEY-BASS",
+                "1999",
+                "0283",
+                "HD69.P.75F84"
+            ],
+            [
+                "DEAN, JOEL",
+                "MANAGERIAL ECONOMICS",
+                "PRENTICE-HALL",
+                "2003",
+                "0114",
+                "HD31.D34"
+            ],
+            [
+                "WHITE, DONALD, D.",
+                "ORGANISATIONAL BEHAVIOUR UNDERSTANDING AND MANAGING PEOPLE AT WORK",
+                "ALLY AND BACON",
+                "1986",
+                "0020",
+                "HD58.7.W58"
+            ],
+            [
+                "PATTERSON, MARVIN L.",
+                "LEADING PRODUCT INNOVATION: ACCELERATING GROWTH IN A PRODUCT-BASED BUSINESS",
+                "JOHN WILEY AND SONS",
+                "1999",
+                "0201",
+                "HD69.27"
+            ],
+            [
+                "FRY, FRED L.",
+                "BUSINESS: AN INTEGRATIVE APPROACH",
+                "McGRAW-HILL",
+                "2001",
+                "0023",
+                "HD31.F94"
+            ],
+            [
+                "BALL, DON",
+                "2000 – 2001 UPDATE TO ACCOMPANY INTERNATIONAL BUSINESS: THE CHALLENGE OF GLOBAL COMPETITION",
+                "McGRAW-HILL",
+                "2001",
+                "0166",
+                "HD62.4.B21"
+            ],
+            [
+                "PEARCE II, JOHN, A.",
+                "STRATEGIC MANAGEMENT: FORMULATION, IMPLEMENTATION AND CONTROL",
+                "McGRAW-HILL",
+                "2003",
+                "0019",
+                "HD30.28.P31"
+            ],
+            [
+                "BALL, DON",
+                "INTERNATIONAL BUSINESS: THE CHALLENGE OF GLOBAL COMPETITION",
+                "McGRAW-HILL",
+                "1999",
+                "0165",
+                "HD62.4.B21"
+            ],
+            [
+                "TUBB , STEWART, L.",
+                "A SYSTEMS APPROACH TO SMALL GROUP INTERACTION",
+                "McGRAW-HILL",
+                "2001",
+                "0077, 0078",
+                "HD66.T79"
+            ],
+            [
+                "NICHOLAS, JOHN, M.",
+                "MANAGING BUSINESS AND ENGINEERING PROJECTS: CONCEPT AND IMPLEMENTATION",
+                "PRENTICE-HALL",
+                "0194",
+                "HD69.P51",
+                ""
+            ],
+            [
+                "(ED) PHILIP QUARTES VAN UFFORD, DIRK KRUIJT AND THEODORE DOWNING",
+                "THE HIDDEN CRISIS IN DEVELOPMENT: DEVELOPMENT BUREAUCRACIES",
+                "UNITED NATIONS UNIVERSITY",
+                "1988",
+                "0171",
+                "HD75.H53"
+            ],
+            [
+                "SMILLIE, IAN",
+                "NO CONDITION PERMANENT: PUMP-PRIMING GHANA’S INDUSTRIAL REVOLUTION",
+                "INTERMEDIATE TECHNOLOGY",
+                "1986",
+                "0190",
+                "HD2346.G4Sm4"
+            ],
+            [
+                "(ED) GERALD KESTER AND OUSMANE OUMAROU SIDIBE",
+                "TRADE UNIONS AND SUSTAINABLE DEMOCRACY IN AFRICA",
+                "ASHGATE",
+                "1997",
+                "0086",
+                "HD6858.5.T67"
+            ],
+            [
+                "MULLINS, LAURIE, J.",
+                "MANAGEMENT AND ORGANISATIONAL BEHAVIOUR",
+                "PRENTICE-HALL",
+                "2005",
+                "0021",
+                "HD58.7.M91"
+            ],
+            [
+                "(ED) WILLEM VAN DER GEEST AND ROLPH VAN DER HOEVEN",
+                "ADJUSTMENT, EMPLOYMENT AND MISSING INSTITUTIONS IN AFRICA: THE EXPERIENCE IN EASTERN AND SOUTHERN AFRICA",
+                "ILO",
+                "1999",
+                "0116",
+                "HD5840.3.A6Ad4"
+            ],
+            [
+                "(ED) PETER AUER",
+                "CHANGING LABOUR MARKETS IN EUROPE: THE ROLE OF INSTITUTIONS AND POLICIES",
+                "ILO",
+                "2001",
+                "0117",
+                "HD5764.A6.C45"
+            ],
+            [
+                "FOX, KARL, A.",
+                "READINGS IN THE ECONOMICS OF AGRICULTURE",
+                "GEORGE ALLEN AND UNION",
+                "1969",
+                "0145",
+                "HD141AME"
+            ],
+            [
+                "THOMPSON, JOHN L.",
+                "STRATEGIC MANAGEMENT: AWARENESS AND CHANGE",
+                "THOMSON",
+                "2001",
+                "0029",
+                "HD30.28.T37"
+            ],
+            [
+                "DELONG, THOMAS",
+                "PROFESSIONAL SERVICES: TEXT AND CASES",
+                "McGRAW-HILL",
+                "2003",
+                "0196",
+                "HD8038.AI38"
+            ],
+            [
+                "DANIELS, JOHN D.",
+                "INTERNATIONAL BUSINESS: ENVIRONMENTS AND OPERATIONS",
+                "ADDISON-WESLEY",
+                "1989",
+                "0016",
+                "HD2755.5.D22"
+            ],
+            [
+                "(ED) ERIC MASKIN AND ANDRAS SIMONOVITS",
+                "PLANNING, SHORTAGES AND TRANSFORMATION: ESSAYS IN HONOR OF JANOS KORNAI",
+                "MIT",
+                "2000",
+                "0014",
+                "HD87.P69"
+            ],
+            [
+                "LA-ANYANE, S.",
+                "THE AGRICULTURAL INDUSTRY OF WESTERN AFRICA",
+                "GUP",
+                "1988",
+                "0147",
+                "HD2140.L11"
+            ],
+            [
+                "SCHULTZ, THEODORE, W.",
+                "TRANSFORMING TRADITIONAL AGRICULTURE",
+                "YALE UNI. PRESS",
+                "1964",
+                "0155",
+                "HD1411.SCH"
+            ],
+            [
+                "(ED) LENNART WOHLGEMUTH, JERKER CARLSSON AND HENOCK KIFLE",
+                "INSTITUTION BUILDING AND LEADERSHIP IN AFRICA",
+                "1998",
+                "0100",
+                "HD70.A34In7",
+                ""
+            ],
+            [
+                "BRENNER, Y. S.",
+                "AGRICULTURE AND THE ECONOMIC DEVELOPMENT OF LOW INCOME COUNTRIES",
+                "MOUTON",
+                "1971",
+                "0148",
+                "HD1417BRE"
+            ],
+            [
+                "CHOKSI, ARMEANE, M.",
+                "THE PLANNING OF INVESTMENT PROGRAMS IN THE FERTILIZER INDUSTRY",
+                "JOHN HOPKINS",
+                "1980",
+                "0143",
+                "HD9483.A2C45"
+            ],
+            [
+                "(ED) UKKANDI, G., DAMACHI AND KODWO EWUSI",
+                "MANPOWER SUPPLY AND UTILIZATION IN GHANA, NIGERIA AND SIERRA LEONE",
+                "INT. INST. FOR LABOUR STUDIES",
+                "1979",
+                "0140",
+                "HD5845.9.A6M31"
+            ],
+            [
+                "CRITICAL ISSUES ON FOOD MARKETING SYSTEMS IN DEVELOPING COUNTRIES: REPORT OF THE OECD\/FAO JOINT SEMINAR, PARIS, 18-22 OCTOBER 1976",
+                "OECD",
+                "1977",
+                "0335",
+                "HD9000.1.C86 HD9000.1.C86",
+                ""
+            ],
+            [
+                "TODARO, MICHEAL, P.",
+                "ECONOMIC DEVELOPMENT",
+                "ADDISON WESLEY",
+                "2000",
+                "0115",
+                "HD82.T55"
+            ],
+            [
+                "ZIETZ, JOACHIM",
+                "AGRICULTURE IN THE GATT: AN ANALYSIS OF ALTERNATIVE APPROACHES TO REFORM (RESEARCH REPORT\/INTERNATIONAL FOOD POLICY RESEARCH INST. IN COLLABORATION WITH THE KIEL INSTITUTE OF WORLD ECONOMICS)",
+                "IFPRI",
+                "1988",
+                "0230",
+                "HD9000.6.Z6"
+            ],
+            [
+                "VON BRAUN, JOACHIM",
+                "IRRIGATION TECHNOLOGY AND COMMERCIALIZATION OF RICE IN THE GAMBIA: EFFECT ON INCOME AND NUTRITION",
+                "IFPRI",
+                "1989",
+                "0232",
+                "HD9066.G252V89"
+            ],
+            [
+                "VON BRAUN, JOACHIM",
+                "NON TRADITIONAL EXPORT CROPS IN GUATEMALA: EFFECTS ON PRODUCTION INCOME AND NUTRITION",
+                "IFPRI",
+                "1989",
+                "0231",
+                "HD9225.G92V89"
+            ],
+            [
+                "MUNDLAK, YAIR",
+                "AGRICULTURE AND ECONOMIC GROWTH IN ARGENTINA, 1913-84",
+                "IFPRI",
+                "1989",
+                "0233",
+                "HD1862.M92"
+            ],
+            [
+                "BOUIS, HOWERTH, E.",
+                "EFFECTS OF AGRICULTURAL COMMERCIALIZATION ON LAND TENURE, HOUSEHOLD RESOURCE ALLOCATION AND NUTRITION IN THE PHILIPPINES",
+                "IFPRI",
+                "1990",
+                "0234",
+                "HD2087.B66"
+            ],
+            [
+                "DOROSH, PAUL",
+                "EFFECTS OF EXCHANGE RATE AND TRADE POLICIES ON AGRICULTURE IN PAKISTAN",
+                "IFPRI",
+                "1990",
+                "0235",
+                "HD9016.P22D73"
+            ],
+            [
+                "GREGORY, JAMES, R.",
+                "MARKETING CORPORATE IMAGE: THE COMPANY AS YOUR NUMBER ONE PRODUCT",
+                "NTC BUSINESS BOOKS",
+                "1999",
+                "0011",
+                "HD59.2.G.81 HD59.2.G81"
+            ],
+            [
+                "TOYE, JOHN",
+                "DILEMMAS OF DEVELOPMENT: REFLECTIONS ON THE COUNTER-REVOLUTION IN DEVELOPMENT THEORY AND POLICY",
+                "BASIL BLACKWELL",
+                "1987",
+                "0176",
+                "HD82.T66"
+            ],
+            [
+                "KUMAR, SHUBH, K.",
+                "ADOPTION OF HYBRID MAIZE IN ZAMBIA: EFFECTS ON GENDER ROLES, FOOD CONSUMPTION AND NUTRITION",
+                "IFPRI",
+                "1994",
+                "0239",
+                "HD9049.C8Z"
+            ],
+            [
+                "GONZALES, A. L.; KASRYNO,F.; PEREZ D. N.; ROSEGRANT W. M.",
+                "ECONOMIC INCENTIVES AND COMPARATIVE ADVANTAGE IN INDONESIAN FOOD CROP PRODUCTION",
+                "IFPRI",
+                "1993",
+                "0238",
+                "HD2083.E7"
+            ],
+            [
+                "McGUIRK, ANYA",
+                "INCENTIVES AND CONSTRAINTS IN THE TRANSFORMATION OF PUNJAB AGRICULTURE",
+                "IFPRI",
+                "1991",
+                "0237",
+                "HD2075.P8M17"
+            ],
+            [
+                "VON BRAUN, JOACHIM",
+                "COMMERCIALIZATION OF AGRICULTURE UNDER POPULATION PRESSURE: EFFECTS ON PRODUCTION, CONSUMPTION AND NUTRITION IN RWANDA",
+                "IFPRI",
+                "1991",
+                "0236",
+                "HD2127.5.Z8V89"
+            ],
+            [
+                "RANGARAJAN, C.",
+                "AGRICULTURAL GROWTH AND INDUSTRIAL PERFORMANCE IN INDIA",
+                "IFPRI",
+                "1982",
+                "0227",
+                "HD2072.R16"
+            ],
+            [
+                "KUMAR, SHUBH, K.",
+                "CONSEQUENCES OF DEFORESTATION FOR WOMEN’S TIME ALLOCATION, AGRICULTURAL PRODUCTION, AND NUTRITION IN THE HILL AREAS OF NEPAL",
+                "IFPRI",
+                "1988",
+                "0229",
+                "HD6247.A4N96"
+            ],
+            [
+                "KENNEDY, EILEEN, T.",
+                "INCOME AND NUTRITIONAL EFFECTS OF THE COMMERCIALIZATION OF AGRICULTURE IN SOUTHWESTERN KENYA",
+                "IFPRI",
+                "1987",
+                "0228",
+                "HD2126.5.Z38"
+            ],
+            [
+                "(ED) BRETH, A. S.",
+                "ISSUES IN AFRICAN RURAL DEVELOPMENT 2",
+                "1994",
+                "0164, 0204",
+                "HD2117.1871s7",
+                ""
+            ],
+            [
+                "SINGH, INDERJIT",
+                "AGRICULTURAL PRICING AND MARKETING POLICIES IN AN AFRICAN CONTEXT: A FRAMEWORK FOR ANALYSIS",
+                "WORLD BANK",
+                "1985",
+                "0349",
+                "HD9017.A2S6"
+            ],
+            [
+                "BELL, MARTIN",
+                "ASSESSING THE PERFORMANCE OF INFANT INDUSTRIES",
+                "WORLD BANK",
+                "1984",
+                "0350",
+                "HD2346.5.B41"
+            ],
+            [
+                "THE WORLD BANK",
+                "AGRICULTURAL MARKETING: THE WORLD BANK’S EXPERIENCE, 1974-85; A WORLD BANK OPERATIONS EVALUATION STUDY",
+                "WORLD BANK",
+                "1990",
+                "0354",
+                "HD9018.D442A8"
+            ],
+            [
+                "BATHRICK, DAVID, D.",
+                "FOSTERING GLOBAL WELL-BEING: A NEW PARADIGM TO REVITALIZE AGRICULTURAL AND RURAL DEVELOPMENT",
+                "IFPRI",
+                "1998",
+                "0353",
+                "HD1431.B32"
+            ],
+            [
+                "NYANTENG, V.K.",
+                "LOCAL FOOD PRICES: TRENDS AND FACTORS AFFECTING THEM",
+                "0357",
+                "HD9017.G452N98",
+                "",
+                ""
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "COMMERCE",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "GARRISON, RAY, H.",
+                "MANAGERIAL ACCOUNTING",
+                "McGRAW-HILL",
+                "2003",
+                "0042",
+                "HF5657.4G19"
+            ],
+            [
+                "CHRISTENSEEN, JOHN, A.",
+                "ACCOUNTING THEORY: AN INFORMATION CONTENT PERSPECTIVE",
+                "McGRAW-HILL",
+                "2003",
+                "0039",
+                "HF5625.C46"
+            ],
+            [
+                "THOMPSON, HARVEY",
+                "THE CUSTOMER-CENTERED ENTERPRISE: HOW IBM AND OTHER WORLD-CLASS COMPANIES ACHIEVE EXTRAORDINARY RESULTS BY PUTTING CUSTOMERS FIRST",
+                "McGRAW-HILL",
+                "2000",
+                "0202",
+                "HF5415.5.T37"
+            ],
+            [
+                "YU-LEE, REGINALD TOMAS",
+                "EXPLICIT COST DYNAMICS: AN ALTERNATIVE TO ACTIVITY-BASED COSTING",
+                "JOHN WILEY AND SONS",
+                "2001",
+                "0013",
+                "HF5686.C8YU9"
+            ],
+            [
+                "ABRAHAMSSON, HANS",
+                "SEIZING THE OPPORTUNITY: POWER AND POWERLESSNESS IN A CHANGING WORLD ORDER: THE CASE OF MOZAMBIQUE",
+                "PADRIGU",
+                "1997",
+                "0103",
+                "HF1613.AB8"
+            ],
+            [
+                "ACZEL, AMIR, D.",
+                "COMPLETE BUSINESS STATISTICS",
+                "McGRAW-HILL",
+                "1999",
+                "0054",
+                "HF1017.A9"
+            ],
+            [
+                "APPROPRIATE TECHNOLOGY PRODUCTS OF GHANA",
+                "DAPIT",
+                "1995",
+                "0334",
+                "HF5286.7.A3D49",
+                ""
+            ],
+            [
+                "BOND, PATRIC",
+                "AGAINST GLOBAL APARTHEID: SOUTH AFRICA MEETS THE WORLD BANK, IMF AND INTERNATIONAL FINANCE",
+                "UCT PRESS",
+                "2001",
+                "0099",
+                "HF1613.4.1364"
+            ],
+            [
+                "CHASTEEN, LANNY, G.",
+                "INTERMEDIATE ACCOUNTING",
+                "McGRAW-HILL",
+                "1998",
+                "0044",
+                "HF5635.C38"
+            ],
+            [
+                "MISKELL, JANC, R.",
+                "MOTIVATION AT WORK: THE BUSINESS SKILLS EXPRESS SERIES",
+                "IRWIN",
+                "1994",
+                "0022",
+                "HF5549.5.M68"
+            ],
+            [
+                "GARRISON, RAY, H.",
+                "MANAGERIAL ACCOUNTING",
+                "McGRAW-HILL",
+                "2000",
+                "0043",
+                "HF5657.4.G19"
+            ],
+            [
+                "SPICELAND, DAVID, J.",
+                "INTERMEDIATE ACCOUNTING",
+                "IRWIN",
+                "2004",
+                "0045",
+                "HF5653.S4"
+            ],
+            [
+                "EDMONDS, P. THOMAS",
+                "FUNDAMENTAL FINANCIAL ACCOUNTING CONCEPTS",
+                "McGRAW-HILL",
+                "2003",
+                "0041",
+                "HF5635.F96"
+            ],
+            [
+                "ANTHONY, ROBERT, N.",
+                "ACCOUNTING: TEXT AND CASES",
+                "IRWIN",
+                "2004",
+                "0040",
+                "HF5635.A8"
+            ],
+            [
+                "SCHULTZ, DUANE, P.",
+                "PSYCHOLOGY AND INDUSTRY TODAY: AN INTRODUCTION TO INDUSTRIAL AND ORGANISATIONAL PSYCHOLOGY",
+                "MACMILLAN",
+                "1986",
+                "0074",
+                "HF5548.8.S8"
+            ],
+            [
+                "O’ BRIEN, JAMES. A.",
+                "INTRODUCTION TO INFORMATION SYSTEMS: ESSENTIALS FOR THE E-BUSINESS ENTERPRISE",
+                "McGRAW-HILL",
+                "2003",
+                "0058, 0059",
+                "HF5548.2.06"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "FINANCE",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "ROSS, STEPHEN, A.",
+                "ESSENTIALS OF CORPORATE FINANCE",
+                "McGRAW-HILL",
+                "2001",
+                "0036, 0037, 0038",
+                "HG4026.R73 HG4026.R73"
+            ],
+            [
+                "BREALEY, RICHARD, A.",
+                "STUDY GUIDE FOR USE WITH FUNDAMENTALS OF CORPORATE FINANCE",
+                "McGRAW-HILL",
+                "2001",
+                "0033",
+                "HG4026.B74"
+            ],
+            [
+                "ROSS, STEPHEN, A.",
+                "ESSENTIALS OF CORPORATE FINANCE",
+                "IRWIN",
+                "2004",
+                "0035",
+                "HG4026.R73"
+            ],
+            [
+                "BREALEY, RICHARD, A.",
+                "PRINCIPLES OF CORPORATE FINANCE",
+                "McGRAW-HILL",
+                "2000",
+                "0032",
+                "HG4026.B74"
+            ],
+            [
+                "BREALEY, RICHARD, A.",
+                "FUNDAMENTALS OF CORPORATE FIANACE",
+                "McGRAW-HILL",
+                "2001",
+                "0034",
+                "HG4026.B74"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "BUDGET\/FINANCE",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "ROSEN, HARVEY, S.",
+                "PUBLIC FINANCE",
+                "IRWIN",
+                "1988",
+                "0031",
+                "HJ257.2.R72"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "SOCIOLOGY",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "SCHAEFER, RICHARD, T.",
+                "SOCIOLOGY",
+                "McGRAW-HILL",
+                "2005",
+                "0075",
+                "HM586.S1"
+            ],
+            [
+                "MARTIN, JUDITH, N.",
+                "INTERCULTURAL COMMUNICATION IN CONTEXTS",
+                "MAYFIELD",
+                "2000",
+                "0076",
+                "HM258.M36"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "SOCIAL, HISTORY",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "(ED) PETER, C. W. GUTKIND; PETER WATERMAN",
+                "AFRICAN SOCIAL STUDIES: A RADICAL READER",
+                "HEINEMANN",
+                "1977",
+                "0089",
+                "HN777.Af3"
+            ],
+            [
+                "(ED) C.K. BROWN",
+                "RURAL DEVELOPMENT IN GHANA",
+                "GUP",
+                "1986",
+                "0169",
+                "HN832.95R88"
+            ],
+            [
+                "(ED) STEPHANIE TORTU; LLOYD, A., GOLDSMAT; RAHUL HAMID",
+                "A PRACTICAL GUIDE TO RESEARCH AND SERVICE WITH HIDDEN POPULATIONS",
+                "ALLYN AND BACON",
+                "2002",
+                "0047",
+                "HN90.M26P88"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "COMMUNITIES, CLASSES, RACES",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "TWUMASI, P.A.",
+                "SOCIAL RESEARCH IN RURAL COMMUNITIES",
+                "GUP",
+                "2001",
+                "0046",
+                "HT411.T94"
+            ],
+            [
+                "SONGSORE, JACOB",
+                "REGIONAL DEVELOPMENT IN GHANA: THE THEORY AND THE REALITY",
+                "WOELI",
+                "2003",
+                "0174",
+                "HT395.G5S05"
+            ],
+            [
+                "PERBI, AKOSUA ADOMA",
+                "A HISTORY OF INDIGENOUS SLAVERY IN GHANA: FROM THE 15TH TO THE 19TH CENTURY",
+                "SUB-SAHARAN",
+                "2004",
+                "0092",
+                "GH\/HT1394.G48.P41"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "SOCIAL WELFARE",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "LANCASTER, CAROL",
+                "AID TO AFRICA: SO LITTLE DONE",
+                "UNIVERSITY OF CHICAGO PRESS",
+                "1999",
+                "0097",
+                "HV640.4.A35L22"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "POLITICAL SCIENCE",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "**CUMMINS, ROBERT C. CHRISTIANO, THOMAS D.**",
+                "MODERN MORAL AND POLITICAL PHILOSOPHY",
+                "MAYFIELD",
+                "1996",
+                "0071",
+                "JA71.C91"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "POLITICAL THEORY",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "OLIPHANT, MARK, L.",
+                "THE AGGREY-FRASER-GUGGISBERG MEMORIAL LECTURES 1969: SCIENCE AND MANKIND",
+                "GHANA PUBLISHING CORPORATION",
+                "1970",
+                "0111",
+                "JC311.OL3"
+            ],
+            [
+                "(ED) M., A., MOHAMED, SALIH",
+                "AFRICAN POLITICAL PARTIES: EVOLUTION, INSTITUTIONALIZATION AND GOVERNANCE",
+                "PLUTO",
+                "2003",
+                "0094",
+                "JQ1879.A795Af8"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "PADIATRICS",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "SMITH , LISA, C.",
+                "EXPLAINING CHILD MALNUTRITION IN DEVELOPING COUNTRIES: A CROSS-COUNTRY ANALYSIS",
+                "IFPRI",
+                "2000",
+                "0241",
+                "RJ399.M2656"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "AGRICULTURE",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "NERLOVE, MARC",
+                "ROLE OF FARM-LEVEL DIVERSIFICATION IN THE ADOPTION OF MODERN TECHNOLOGY IN BRAZIL",
+                "IFPRI",
+                "1996",
+                "0240",
+                "S494.5.15N35"
+            ],
+            [
+                "WILSON, KATHLEEN",
+                "SYSTEMS APPROACHES FOR IMPROVEMENT IN AGRICULTURE AND RESOURCE MANAGEMENT",
+                "MACMILLAN",
+                "1990",
+                "0139",
+                "S540.A2W69"
+            ],
+            [
+                "CIMMYT",
+                "THE ADOPTION OF AGRICULTURAL TECHNOLOGY: A GUIDE FOR SURVEY DESIGN",
+                "CIMMYT",
+                "1993",
+                "0127",
+                "SN94.5.I5Ad7"
+            ],
+            [
+                "TRIPP, ROBERT",
+                "THE PLANNING STAGE OF ON-FARM RESEARCH: IDENTIFYING FACTORS FOR EXPERIMENTATION",
+                "CIMMYT\/CIAT",
+                "1989",
+                "0126",
+                "S540.053T54"
+            ],
+            [
+                "WORLD BANK",
+                "EVOLUTION OF AGRICULTURAL SERVICES IN SUB-SAHARAN AFRICA: TRENDS AND PROSPECTS",
+                "THE WORLD BANK",
+                "1998",
+                "0342",
+                "S542.A426W89"
+            ],
+            [
+                "WORLD BANK",
+                "AGRICULTURE SECTOR SYMPOSIUM (7TH: 1987: WORLD BANK): SUSTAINABILITY ISSUES IN AGRICULTURAL DEVELOPMENT",
+                "THE WORLD BANK",
+                "1987",
+                "0341",
+                "S604.5.A8"
+            ],
+            [
+                "WORLD BANK",
+                "AGRICULTURAL TECHNOLOGY IN SUB-SAHARAN AFRICA: A WORKSHOP ON RESEARCH ISSUES",
+                "THE WORLD BANK",
+                "1991",
+                "0355",
+                "S494.5.I5A8"
+            ],
+            [
+                "CRITCHLEY, WILLIAM",
+                "WATER HARVESTING FOR PLANT PRODUCTION; VOLUME II: CASE STUDIES AND CONCLUSIONS FOR SUB-SAHARAN AFRICA",
+                "THE WORLD BANK",
+                "1992",
+                "0343",
+                "S494.5.W3W89"
+            ],
+            [
+                "LOVE, R.,MERTON",
+                "AGRICULTURE AND CIVILIZATION: OPEN LECTURE DELIVERED AT THE UNIVERSITY OF GHANA, LEGON ON 26TH NOVEMBER 1970",
+                "GHANA UNIVERSITY PRESS",
+                "1971",
+                "0330",
+                "S523.L94"
+            ],
+            [
+                "SCHIOLER, EBBE",
+                "GOOD NEWS FROM AFRICA: FARMERS, AGRICULTURAL RESEARCH, AND FOOD IN THE PANTRY",
+                "IFPRI",
+                "1988",
+                "0348",
+                "S542.A35Sc1"
+            ],
+            [
+                "(ED) EDWIN, A. GYASI",
+                "MANAGING AGRODIVERSITY THE TRADITIONAL WAY: LESSONS FROM WEST AFRICA IN SUSTAINABLE USE OF BIODIVERSITY AND RELATED NATURAL RESOURCES",
+                "UNITED NATIONS UNI. PRESS",
+                "2004",
+                "0102",
+                "S494.5.A43M31 S494.5.A43M31"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "PLANT CULTURE",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "(ED) F., OFORI; S. K. HAHN",
+                "TROPICAL ROOT CROPS IN A DEVELOPING ECONOMY: PROCEEDINGS OF THE 9TH SYMPOSIUM OF THE INTERNATIONAL SOCIETY FOR TROPICAL ROOTS CROPS; 20-26 OCTOBER 1991, ACCRA, GHANA",
+                "1994",
+                "0338",
+                "SB210.A35T75",
+                ""
+            ],
+            [
+                "YUDELMAN, MONTAGUE",
+                "PEST MANAGEMENT AND FOOD PRODUCTION: LOOKING TO THE FUTURE",
+                "IFPRI",
+                "1998",
+                "0352",
+                "SB608.F62Yu9"
+            ],
+            [
+                "(ED) GILLES, LESSARD; AMY, CHOUINARD",
+                "BAMBOO RESEARCH IN ASIA: PROCEEDINGS OF A WORKSHOP HELD IN SINGAPORE, 28-30 MAY 1980",
+                "IDRC",
+                "1980",
+                "0288",
+                "SB317.B2B20"
+            ],
+            [
+                "DOKU, E. V.",
+                "IMPROVEMENT OF FOOD CROPS IN GHANA: AN INAUGURAL LECTURE DELIVERED AT THE UNIVERSITY OF GHANA, LEGON ON 6TH FEBRUARY, 1986",
+                "GHANA UNIVERSITIES PRESS",
+                "1987",
+                "0324",
+                "SB176.G4D68"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "FORESTRY",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "SEYMOUR, FRANCES, J.",
+                "THE RIGHT CONDITIONS: THE WORLD BANK, STRUCTURAL ADJUSTMENT AND FOREST POLICY REFORM",
+                "WORLD RESOURCES INST.",
+                "2000",
+                "0361",
+                "SD669.5.Se9"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "ANIMAL CULTURE",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "PRESTON, T.R.",
+                "MATCHING RUMINANT PRODUCTION SYSTEMS WITH AVAILABLE RESOURCES IN THE TROPICAL AND SUB-TROPICS",
+                "PENAMBUL BOOKS",
+                "1987",
+                "0129",
+                "SF98.P92"
+            ],
+            [
+                "ASSOKU, R., K., G.",
+                "THE HUMAN-ANIMAL BOND: SCIENCE TO THE RESCUE",
+                "GUP",
+                "1988",
+                "0312",
+                "SF411.47.AS7"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "TECHNOLOGY",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "(ED) BHAGAVAN, M.R.",
+                "NEW GENERIC TECHNOLOGIES IN DEVELOPING COUNTRIES",
+                "ST. MARTIN",
+                "1997",
+                "0191",
+                "T49.5.N42"
+            ],
+            [
+                "BARRIO, S.",
+                "SCIENCE AND TECHNOLOGY FOR DEVELOPMENT: STPI MODULE 7: POLICY INSTRUMENTS TO DEFINE THE PATTERN OF DEMAND FOR TECHNOLOGY",
+                "IDRC",
+                "1980",
+                "0301",
+                "T49.5.B27"
+            ],
+            [
+                "CARTAGENA, JUNTA DEL ACUERDO DE",
+                "TECHNOLOGY POLICY AND ECONOMIC DEVELOPMENT",
+                "IDRC",
+                "1976",
+                "0283",
+                "T25.A53T22"
+            ],
+            [
+                "CAR CARTAGENA, JUNTA DEL ACUERDO",
+                "ANDEAN PACT TECHNOLOGY POLICIES",
+                "IDRC",
+                "1976",
+                "0284",
+                "T25.A53.463"
+            ],
+            [
+                "IDRC",
+                "ABSORPTION AND DIFFUSION OF IMPORTED TECHNOLOGY: PROCEEDINGS OF A WORKSHOP HELD IN SINGAPORE, 26-30 JANUARY 1981",
+                "IDRC",
+                "1983",
+                "0285",
+                "T27.A1Ab8"
+            ],
+            [
+                "(ED) OSITA, M. OGBU; BONJI O. OYEYINKA; HASA M. MLAWA",
+                "TECHNOLOGY POLICY AND PRACTICE IN AFRICA",
+                "IDRC",
+                "1995",
+                "0180",
+                "T134.3.T22"
+            ],
+            [
+                "BARANSON, JACK",
+                "TECHNOLOGY AND MULTINATIONALS: CORPORATE STRATEGIES IN A CHANGING WORLD ECONOMY",
+                "LEXINGTON BOOKS",
+                "1978",
+                "0188",
+                "T174.3.B23"
+            ],
+            [
+                "(ED) MARILYN CARS",
+                "THE AT READER: THEORY AND PRACTICE IN APPROPRIATE TECHNOLOGY",
+                "IT",
+                "1985",
+                "0187",
+                "T49.5.At7"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "LAW OF UNITED STATES",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "NOLFI, EDWARD, A.",
+                "BIAS LEGAL RESEARCH",
+                "McGRAW-HILL",
+                "1993",
+                "0048",
+                "KF240.N71"
+            ],
+            [
+                "BERRY, JAMES, F.",
+                "THE ENVIRONMENTAL LAW AND COMPLIANCE HANDBOOK",
+                "McGRAW-HILL",
+                "2000",
+                "0172",
+                "KF3775.B45"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "LAW",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "JOHNSTON, DOUGLAS, M.",
+                "CONSENT AND COMMITMENT IN THE WORLD COMMUNITY: THE CLASSIFICATION AND ANALYSIS OF INTERNATIONAL INSTRUMENTS",
+                "TRANSNATIONAL",
+                "1997",
+                "0080",
+                "KZ1301.J65"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "EDUCATION",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "ELLIOT, N. STEPHEN",
+                "EDUCATIONAL PSYCHOLOGY: EFFECTIVE TEACHING, EFFECTIVE LEARNING",
+                "McGRAW-HILL",
+                "2000",
+                "0156",
+                "LB1051.T8"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "ARCHITECTURE",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "SMITH, MICHEAL, R.",
+                "THE OFFICIAL DATA CARD USERS GUIDE",
+                "McGRAW-HILL",
+                "2001",
+                "0064",
+                "NA2728.S6"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "ENGLISH",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "MULLER, GILBERT, H.",
+                "THE McGRAW-HILL READER: ISSUES ACROSS THE DISCIPLINES",
+                "McGRAW-HILL",
+                "2000",
+                "0101",
+                "PE1417.M91"
+            ],
+            [
+                "",
+                "\\`",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "LITERATURE",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "FERGUSON, DONALD, L.",
+                "OPPORTUNITIES IN JOURNALISM CAREERS",
+                "VGM",
+                "2001",
+                "0112",
+                "PN4797.F38"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "BOTANY",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "HATCH, GARY LAYNE",
+                "ARGUING IN COMMUNITIES",
+                "MAYFIELD",
+                "1999",
+                "0079",
+                "P301.5.P47H28"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "SCIENCE",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "SAGASTI, FRANCISCO",
+                "SCIENCE AND TECHNOLOGY FOR DEVELOPMENT: MAIN COMPARATIVE REPORT OF THE SCIENCE AND TECHNOLOGY POLICY INSTRUMENTS PROJECT",
+                "IDRC",
+                "1978",
+                "0296",
+                "Q127.2.Sa1"
+            ],
+            [
+                "(ED) J. KING, GORDON",
+                "CANADA’S ROLE IN SCIENCE AND TECHNOLOGY FOR DEVELOPMENT: PROCEEDINGS OF A SYMPOSIUM HELD AT THE ONTARIO SCIENCE CENTRE, TORONTO, CANADA, 10-13 MAY 1979",
+                "IDRC",
+                "1979",
+                "0282",
+                "Q127.2.C16"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "MATHEMATICS",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "HUTCHINSON, SARAH, E.",
+                "COMPUTERS, COMMUNICATIONS AND INFORMATION: A USER’S INTRODUCTION",
+                "McGRAW-HILL",
+                "1998",
+                "0160",
+                "QA76.5.H97"
+            ],
+            [
+                "(ED) TOM, SHINDER; DEBRA, LITTLE JOHN, SHINDER",
+                "MCSE WINDOWS 2000: ACCELERATED STUDY GUIDE",
+                "McGRAW-HILL",
+                "2000",
+                "0163",
+                "QA76.3.M58"
+            ],
+            [
+                "ANDREWS, LINCOLN",
+                "THE ART OF USING COMPUTERS",
+                "BOYD AND FRASER",
+                "1986",
+                "0060",
+                "QA76.A.2"
+            ],
+            [
+                "BROWN, JAMES, WARD",
+                "COMPLEX VARIABLES AND APPLICATIONS",
+                "McGRAW-HILL",
+                "1996",
+                "0051",
+                "QA381.7.C82"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "NATURAL HISTORY",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "(ED) LETITIA, E., OBENG",
+                "MAN-MADE LAKES: THE ACCRA SYMPOSIUM; PROCEEDINGS OF A SYMPOSIUM HELD AT ACCRA, NOVEMBER 21-24, 1966 UNDER THE AUSPICES OF THE CSIR",
+                "GHANA UNIVERSITIES PRESS",
+                "1968",
+                "0337",
+                "QH541.5.R4M31"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "BOTANY",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "**LAWSON, G.W.**",
+                "PLANT LIFE IN WEST AFRICA",
+                "GUP",
+                "1985",
+                "0149-0150",
+                "GK393.L44"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "PHYSIOLOGY",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "ADDAE, S., KOJO",
+                "SOME PHYSIOLOGICAL PROBLEMS OF THE TROPICAL ENVIRONMENT: AN INAUGURAL LECTURE DELIVERED AT THE UNIVERSITY OF GHANA LEGON ON THURSDAY, 13TH NOVEMBER 1980",
+                "GUP",
+                "1986",
+                "0326",
+                "QP82.Ad2"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "INTERNAL MEDICINE",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "ADDAE, S., KOJO",
+                "TEMPERATURE, HORMONES AND THE KIDNEY IN SICKLE CELL DISEASE",
+                "GHANA UNIVERSITIES PRESS",
+                "1971",
+                "0315",
+                "RC641.7.H4Ad2"
+            ],
+            [
+                "(ED) A., M., ERNANS; N., M., MBULAMOKO; F., DELANGE; R., AHLUWALIA",
+                "ROLE OF CASSAVA IN THE ETIOLOGY OF ENDEMIC GOITER AND CRETIRISM",
+                "IDRC",
+                "1980",
+                "0289",
+                "RC657.R64"
+            ],
+            [
+                "ADDAE, S., KOJO",
+                "THE KIDNEY IN SICKLE CELL DISEASE",
+                "GUP",
+                "1975",
+                "0068",
+                "RC641.7.S5Ad2"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "ENGINEERING",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "**ALBERTO ARDOZ**",
+                "**CONSULTING AND ENGINEERING DESIGN IN DEVELOPING COUNTRIES**",
+                "IDRC",
+                "1981",
+                "0182-0183",
+                "TA216.C76"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "SANITATION",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "BASSAN, ELIZABETH, ANN",
+                "ENVIRONMENTALLY SOUND SMALL-SCALE ENERGY PROJECTS: GUIDELINES FOR PLANNING",
+                "VITA",
+                "1985",
+                "0137",
+                "TD195.E.49B29"
+            ],
+            [
+                "(ED) MICHEAL, G. McGARRY; JILL, STAINFORTH",
+                "COMPOST, FERTILIZER AND BIOGAS PRODUCTION FROM HUMAN AND FARM WASTES IN THE PEOPLE’S REPUBLIC OF CHINA",
+                "IDRC",
+                "1978",
+                "0130",
+                "TD772.C73"
+            ],
+            [
+                "(ED) WILLEM, ANKERSMIT",
+                "WATER SUPPLY AND SANITATION IN DEVELOPING COUNTRIES",
+                "NEDA",
+                "1998",
+                "0138",
+                "TD327.W29"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "BUILDING CONSTRUCTION",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "LEVY, SIDNEY, M.",
+                "CONSTRUCTION DATABOOK",
+                "McGRAW-HILL",
+                "1999",
+                "0057",
+                "TH151.L57"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "MECHANICAL ENGINEERING",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "WALSH, RONALD, A.",
+                "ELECTROMECHANICAL DESIGN HANDBOOK",
+                "McGRAW-HILL",
+                "2000",
+                "0061",
+                "TJ163.W16"
+            ],
+            [
+                "SIWATIBAU, SULIANA",
+                "RURAL ENERGY IN FIJI: A SURVEY OF DOMESTIC RURAL ENERGY USE AND POTENTIAL",
+                "IDRC",
+                "1981",
+                "0290",
+                "TJ163.25.F4Si9"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "CHEMICAL TECHNOLOGY",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "THOMAS, CLIVE, Y.",
+                "SUGAR: THREAT OR CHALLENGE IN THE HIGH-FRUCTOSE CORN SYRUP AND SUCRO-CHEMICALS INDUSTRIES",
+                "IDRC",
+                "1985",
+                "0287",
+                "TP377.T36"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "PHOTOGRAPY",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "FEILER, JESSE",
+                "THE COMPLETE REFERENCE: MAC OS X",
+                "McGRAW-HILL",
+                "2001",
+                "0162",
+                "TR897.7.F32"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "MANUFACTURIES",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "KRAJEWSKI, LEE, J.",
+                "OPERATIONS MANAGEMENT: STRATEGY AND ANALYSIS",
+                "ADDISON-WESLEY",
+                "1992",
+                "0025",
+                "TS155.K85"
+            ],
+            [
+                "CHASE, RICHARD, B.",
+                "OPERATIONS MANAGEMENT FOR COMPETITIVE ADVANTAGE",
+                "McGRAW-HILL",
+                "2001",
+                "0027",
+                "TS155.C38"
+            ],
+            [
+                "SCHROEDER, ROGER, G.",
+                "OPERATIONS MANAGEMENT: CONTEMPORARY CONCEPTS",
+                "McGRAW-HILL",
+                "2000",
+                "0026",
+                "TS155.S7"
+            ],
+            [
+                "MOEN, RONALD D.",
+                "IMPROVING QUALITY THROUGH PLANNED EXPERIMENTATION",
+                "McGRAW-HILL",
+                "1991",
+                "0052, 0053",
+                "TS156.M72"
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "HOME ECONOMICS",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "SPEARS, MARIAN, C.",
+                "FOOD SERVICE ORGANISATIONS: A MANAGERIAL AND SYSTEMS APPROACH",
+                "PRENTICE-HALL",
+                "2000",
+                "0017",
+                "TX911.3.M3"
+            ],
+            [
+                "MAXWELL, DANIEL",
+                "URBAN LIVELIHOODS AND FOOD NUTRITION SECURITY IN GREATER ACCRA, GHANA",
+                "IFPRI",
+                "2000",
+                "0242",
+                "TX360.G4UI"
+            ],
+            [
+                "**UNRECORDED**",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "IAN CLARK IVER B. NEUMANN",
+                "CLASSICAL THEORIES OF INTERNATIONAL RELATION",
+                "MACMILLAN",
+                "1996",
+                "0007",
+                "JX1395.C56"
+            ],
+            [
+                "FRAME, DAVIDSON J",
+                "PROJECT MGT. COMPETENCE",
+                "JOSSEY BASS",
+                "1999",
+                "0012",
+                "HD69.P75F84"
+            ],
+            [
+                "PEARCE 11, JOHN A ROBINSON, RICHARD . B Jr.",
+                "FORMULATION, IMPLEMENTATION CONTROL OF COMPETITIVE STRATEGY.",
+                "MCGRAW HILL",
+                "2000",
+                "0024",
+                "HD30.28.P31"
+            ],
+            [
+                "**LUMPKIN, DESS**",
+                "STRATEGIC MANAGEMENT",
+                "MCGRAW HILL",
+                "2003",
+                "0028",
+                "HD30.28.L97"
+            ],
+            [
+                "ARKIN, HERBERT COLTON, RAYMOND R.",
+                "TABLE OF STATISTICIANS",
+                "BARNES AND NOBLE",
+                "1963",
+                "0049",
+                ""
+            ],
+            [
+                "WILLEMSEN, ELEANOR W.",
+                "UNDERSTANDING STATISTICAL REASONING",
+                "FREEMAN AND CO.",
+                "1974",
+                "0050",
+                ""
+            ],
+            [
+                "SCHOLZ, ROLAND W. TIETJE, OLAF",
+                "EMBEDDED CASE STUDY METHODS",
+                "SAGE",
+                "2002",
+                "0056",
+                "Q180.55.M4Sc6"
+            ],
+            [
+                "PARK, JAMES F. PELROY, RICHARD A.",
+                "MULTILEVEL HEALTH EFFECTS RESEARCH",
+                "BATTELLE",
+                "1988",
+                "0065",
+                ""
+            ],
+            [
+                "JANDA, KENNETH BERRY, JEFFREY M. GOLDMAN, JERRY",
+                "THE CHALLENGE OF DEMOCRACY",
+                "HOUGHTON MIFF.",
+                "2000",
+                "0081",
+                "JK276.J25"
+            ],
+            [
+                "RICHARDSON, LAUREL TAYLOR, VERTA WHITTIER, NANCY",
+                "FEMINIST FRONTIERS",
+                "MCGRAW HILL",
+                "2001",
+                "0082-0083",
+                "HQ1426.R37"
+            ],
+            [
+                "BROWN, C.K. GHARTERY, N.K.T EKUMAH, E.K",
+                "WOMEN IN LOCAL GOVERNMENT",
+                "FRIEDRICH EBERT FOUNDATION",
+                "1996",
+                "0084",
+                "HQ1236.G4B81"
+            ],
+            [
+                "BRITWUM, AKUI POOKUA ANOKYE, NAN AMMA",
+                "CONFRONTING SEXUAL HARASSMENT IN GHANAIAN",
+                "GHANA UNIVERSITIES PRESS",
+                "2006",
+                "0085",
+                "LC212.83G4B77"
+            ],
+            [
+                "HOW TO MAKE DEMOCRATIC PARTICIPATION A SUCCESS.",
+                "APadEp",
+                "1999",
+                "0087",
+                "HD5660.A357D39",
+                ""
+            ],
+            [
+                "LINDHOLM, HELENA",
+                "ETHNICITY AND NATIONALISM",
+                "NORDNESS",
+                "1993",
+                "0090",
+                "JC311.L64"
+            ],
+            [
+                "AMEDEKEY, E.Y.",
+                "THE CULTURE OF GHANA",
+                "GUP",
+                "1970",
+                "0093",
+                "Z3785.Am3"
+            ],
+            [
+                "AFRICAN POLITICAL PARTIES",
+                "PLUTO PRESS",
+                "2003",
+                "0095",
+                "JQ1879.A795Af8",
+                ""
+            ],
+            [
+                "LENNART WOHLGEMUTH JERKER CARLSSON AND HENOCK KIFLE",
+                "**INSTITUTION BUILDING AND LEADERSHIP IN AFRICA**",
+                "TRANSACTION",
+                "1998",
+                "0100",
+                "HD70.A34"
+            ],
+            [
+                "MULLER, GILBERT H.",
+                "THE MCGRAW- HILL READER",
+                "MCGRAW-HILL",
+                "2000",
+                "0101",
+                "PE1417.M91"
+            ],
+            [
+                "MUTISO, GIDEON-CYNIS M. ROHIO, S.W.",
+                "READINGS IN AFRICAN POLITICAL THOUGHT",
+                "H.E.B",
+                "1975",
+                "0105",
+                "JA84.A33R22"
+            ],
+            [
+                "INTRODUCTION SPECIAL EDUCATION, AN AGRICAN PERSPECTIVE",
+                "ADWINSA PUB.",
+                "2003",
+                "0113",
+                "",
+                ""
+            ],
+            [
+                "FOOD AND AGRICULTURE ORGANIZATION OF THE UN",
+                "GUIDELINES FOR AGRAMAN SYSTEMS DIAGNOSIS",
+                "1999",
+                "0118",
+                "",
+                ""
+            ],
+            [
+                "PLANNING TECHNOLOGY APPROPRIATE TO FARMERS",
+                "0128",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "NESTEL, BARRY COCK, JAMES",
+                "CASSAVA",
+                "1976",
+                "0131",
+                "",
+                ""
+            ],
+            [
+                "RETHINKING NATURAL RESOURCE DEGRADATION IN SUB-SAHARAN AFRICA",
+                "CYBER SYSTEMS",
+                "2002",
+                "0133",
+                "",
+                ""
+            ],
+            [
+                "RETHINKING NATURAL RESOURCE DEGRADATION IN SUB-SAHARAN AFRICA (VOL II)",
+                "CYBER SYSTEMS",
+                "2002",
+                "0134",
+                "",
+                ""
+            ],
+            [
+                "HOLLANDER, SAMUEL",
+                "THE SOURCES OF INCREASED EFFICIENCY",
+                "M.I.T PRESS",
+                "1965",
+                "0136",
+                ""
+            ],
+            [
+                "ADOPTING IMPROVED FARM TECHNOGY",
+                "IFPRI",
+                "1991",
+                "0142",
+                "",
+                ""
+            ],
+            [
+                "MICAH, J.A AIKINS, K.S",
+                "SAFETY TRAINING IN GHANAIAN INDUSTRIES",
+                "CDS",
+                "2002",
+                "0151-0153",
+                ""
+            ],
+            [
+                "TEACHING AGRICULTURAL AND MANAGEMENT IN ASIA",
+                "1977",
+                "0154",
+                "HD1410.6.A72",
+                "",
+                ""
+            ],
+            [
+                "KETTEL, JENNIFER ACKERMAN",
+                "THE COMPLETE REFERENCE",
+                "MCGRAW HILL",
+                "2001",
+                "0159",
+                ""
+            ],
+            [
+                "THE INTERNET HAND BOOK",
+                "TRIFOKUM BOOK",
+                "2000",
+                "0161",
+                "TK5105.875.157",
+                ""
+            ],
+            [
+                "BJORN HELTTNE ANDRAS INOTAI OSVALDO SUNKEL",
+                "COMPARING REGIONALISMS IMPLICATIONS FOR GLOBAL DEVELOPMENT",
+                "2001",
+                "0168",
+                "IZ5330.C73",
+                ""
+            ],
+            [
+                "ANALYTICAL TECHNIQUES DEV. STUDIES",
+                "CDS",
+                "2003",
+                "0175-0176",
+                "HD73.5.An1",
+                ""
+            ],
+            [
+                "MINING, DEVELOPMENT SOCIAL CONFLICTS IN AFRICA",
+                "THIRD WORLD NETWORK AFRICA",
+                "2001",
+                "0177",
+                "",
+                ""
+            ],
+            [
+                "TOYE, JOHN",
+                "DILEMMAS OF DEVELOPMENT: REFLECTIONS ON THE COUNTER REVOLUTION IN DEVELOPMENT THEORY AND POLICY\/TOYE JOHN",
+                "BASIL BLACKWELL",
+                "1987",
+                "0178",
+                "HD82.T66"
+            ],
+            [
+                "DEVELOPMENT AS THEORY AND PRACTICE",
+                "LONGMAN",
+                "1999",
+                "0179",
+                "",
+                ""
+            ],
+            [
+                "OSITA M. OGBU BANJI O. OYEYINKA HASA M. MLAWA",
+                "TECHNOLOGY POLICY AND PRACTICE IN AFRICA",
+                "IDRC",
+                "1995",
+                "0180",
+                "T174.3.T22"
+            ],
+            [
+                "DARNETT, ANDREW PYLE, LEO SUBRAMANIAN, S.K",
+                "BIOGAS TECHNOLOGY THE THIRD WORLD",
+                "IDRC",
+                "1978",
+                "0186",
+                ""
+            ],
+            [
+                "ABRAHAMSSON, HANS, HETTNE, BJORN NILSON, ANDERS",
+                "POVERTY, CONFLICT AND DEVELOPMENT",
+                "PADRIGU",
+                "2001",
+                "0192",
+                ""
+            ],
+            [
+                "AMARTHEFIO, G.W. BUTCHER, D.A. P.",
+                "TEMA MANHEAN: A STUDY OF RESETTLEMENT",
+                "GUP",
+                "1966",
+                "0193",
+                ""
+            ],
+            [
+                "KILLICK, TONY",
+                "FUELING ECONOMIC GROWTH: THE ROLE OF PUBLIC-PRIVATE RESEARCH IN DEVELOPMENT",
+                "PRACTICAL ACTION",
+                "2009",
+                "0197",
+                ""
+            ],
+            [
+                "NILSSON, ANDERS",
+                "PEACE IN OUR TIME: TO HOLISTIC UNDERSTANDING SOCIETY CONFLICTS",
+                "PADRIGU",
+                "1999",
+                "0198",
+                "DT3398.N59"
+            ],
+            [
+                "REPORT ON STAKE HOLDERS FORUM ONN GENETICALLY MODIFIED ORGANISM (AMOS I) IN GHANA",
+                "STEPRI",
+                "2007",
+                "0199",
+                "",
+                ""
+            ],
+            [
+                "FREMPONG, GODFEED ESSEGBEY, GEORGE TETTEH, EMMANUEL",
+                "SURVEY ON THE USE OF MOBILE TELEPHONES FOR MICRO AND SMALL BUSINESS DEVELOPMENT",
+                "STEPRI",
+                "2007",
+                "0200",
+                "HD2346.G4.F88"
+            ],
+            [
+                "A VOLUME 1",
+                "THE WORLD BOOK ENCYCLOPEDIA",
+                "WORLD BOOK, INC.",
+                "2001",
+                "0205",
+                "AE5"
+            ],
+            [
+                "B VOLUME 2",
+                "THE WORLD BOOK ENCYCLOPEDIA",
+                "WORLD BOOK, INC.",
+                "2001",
+                "0206",
+                "AE5"
+            ],
+            [
+                "C VOLUME 3",
+                "THE WORLD BOOK ENCYCLOPEDIA",
+                "WORLD BOOK, INC.",
+                "2001",
+                "0207",
+                "AE5"
+            ],
+            [
+                "D VOLUME 4",
+                "THE WORLD BOOK ENCYCLOPEDIA",
+                "WORLD BOOK, INC.",
+                "2001",
+                "0208",
+                "AE5"
+            ],
+            [
+                "E VOLUME 5",
+                "THE WORLD BOOK ENCYCLOPEDIA",
+                "WORLD BOOK, INC.",
+                "2001",
+                "0209",
+                "AE5"
+            ],
+            [
+                "F VOLUME 6",
+                "THE WORLD BOOK ENCYCLOPEDIA",
+                "WORLD BOOK, INC.",
+                "2001",
+                "0210",
+                "AE5"
+            ],
+            [
+                "G VOLUME 7",
+                "THE WORLD BOOK ENCYCLOPEDIA",
+                "WORLD BOOK, INC.",
+                "2001",
+                "0211",
+                "AE5"
+            ],
+            [
+                "H VOLUME 8",
+                "THE WORLD BOOK ENCYCLOPEDIA",
+                "WORLD BOOK, INC.",
+                "2001",
+                "0212",
+                "AE5"
+            ],
+            [
+                "I VOLUME 9",
+                "THE WORLD BOOK ENCYCLOPEDIA",
+                "WORLD BOOK, INC.",
+                "2001",
+                "0213",
+                "AE5"
+            ],
+            [
+                "J VOLUME 10",
+                "THE WORLD BOOK ENCYCLOPEDIA",
+                "WORLD BOOK, INC.",
+                "2001",
+                "0214",
+                "AE5"
+            ],
+            [
+                "K VOLUME 11",
+                "THE WORLD BOOK ENCYCLOPEDIA",
+                "WORLD BOOK, INC.",
+                "2001",
+                "0215",
+                "AE5"
+            ],
+            [
+                "L VOLUME 12",
+                "THE WORLD BOOK ENCYCLOPEDIA",
+                "WORLD BOOK, INC.",
+                "2001",
+                "0216",
+                "AE5"
+            ],
+            [
+                "M VOLUME 13",
+                "THE WORLD BOOK ENCYCLOPEDIA",
+                "WORLD BOOK, INC.",
+                "2001",
+                "0217",
+                "AE5"
+            ],
+            [
+                "N-OVOLUME 14",
+                "THE WORLD BOOK ENCYCLOPEDIA",
+                "WORLD BOOK, INC.",
+                "2001",
+                "0218",
+                "AE5"
+            ],
+            [
+                "P VOLUME 15",
+                "THE WORLD BOOK ENCYCLOPEDIA",
+                "WORLD BOOK, INC.",
+                "2001",
+                "0219",
+                "AE5"
+            ],
+            [
+                "Q.R VOLUME 16",
+                "THE WORLD BOOK ENCYCLOPEDIA",
+                "WORLD BOOK, INC.",
+                "2001",
+                "0220",
+                "AE5"
+            ],
+            [
+                "S-Sn VOLUME 17",
+                "THE WORLD BOOK ENCYCLOPEDIA",
+                "WORLD BOOK, INC.",
+                "2001",
+                "0221",
+                "AE5"
+            ],
+            [
+                "So-Sz VOLUME 18",
+                "THE WORLD BOOK ENCYCLOPEDIA",
+                "WORLD BOOK, INC.",
+                "2001",
+                "0222",
+                "AE5"
+            ],
+            [
+                "T VOLUME 19",
+                "THE WORLD BOOK ENCYCLOPEDIA",
+                "WORLD BOOK, INC.",
+                "2001",
+                "0223",
+                "AE5"
+            ],
+            [
+                "U.V VOLUME 20",
+                "THE WORLD BOOK ENCYCLOPEDIA",
+                "WORLD BOOK, INC.",
+                "2001",
+                "0224",
+                "AE5"
+            ],
+            [
+                "W.X-YZ VOLUME 21",
+                "THE WORLD BOOK ENCYCLOPEDIA",
+                "WORLD BOOK, INC.",
+                "2001",
+                "0225",
+                "AE5"
+            ],
+            [
+                "RESEARCH GUIDE INDEX V 22",
+                "THE WORLD BOOK ENCYCLOPEDIA",
+                "WORLD BOOK, INC.",
+                "2001",
+                "0226",
+                "AE5"
+            ],
+            [
+                "HALL, J.B.",
+                "GAZETTE OF PLANT COLLECTING LOCALITIES IN GHANA: CITED IN FLORA OF WEST TROPICAL AFRICA",
+                "GUP",
+                "1980",
+                "0244",
+                ""
+            ],
+            [
+                "GHANA",
+                "CONSTITUTION OF THE REPUBLIC OF GHANA 1992",
+                "GHANA PUBLISHING CORPORATION",
+                "1992",
+                "0245",
+                "GH\/KRX1744.51992.G34"
+            ],
+            [
+                "THE WORLD BANK",
+                "WORLD DEVELOPMENT INDICATORS 2002",
+                "WORLD BANK",
+                "2002",
+                "0249",
+                "HD75.W89"
+            ],
+            [
+                "UNITED NATIONS",
+                "ECONOMIC COMMISSION AFRICA: FOREIGN TRADE STATISTICS FOR AFRICA: DIRECTION OF TRADE A NO.35",
+                "UNITED NATIONS",
+                "1992",
+                "0250",
+                ""
+            ],
+            [
+                "GHANA BUSINESS GUIDE 1986-87 A DIRECTORY OF GHANAIAN COMMERCIAL AND INDUSTRIAL HOUSES, EXPORTERS AN IMPORTERS ETC.",
+                "BUSINESS PUB.",
+                "1986",
+                "0251",
+                "",
+                ""
+            ],
+            [
+                "WILDE, VICKI L. VIANIO-MATTILA, ARJA",
+                "GENDER ANALYSIS AND FORESTRY SECTION A: HOW FORESTRY CAN BENEFIT FROM GENDER ANALYSIS",
+                "FAO",
+                "1995",
+                "0252",
+                ""
+            ],
+            [
+                "WILDE, VICKI L. VIANIO-MATTILA, ARJA",
+                "GENDER ANALYSIS AND FORESTRY SECTION B: MANAGEMENT LEVEL FRAMEWORK AND TRAINING NOTE",
+                "FAO",
+                "1995",
+                "0253",
+                ""
+            ],
+            [
+                "WILDE, VICKI L. VIANIO-MATTILA, ARJA",
+                "GENDER ANALYSIS AND FORESTRY SECTION C: FIELD-LEVEL FRAME WORK AND TRAINING NOTES",
+                "FAO",
+                "1995",
+                "0254",
+                ""
+            ],
+            [
+                "WILDE, VICKI L. VIANIO-MATTILA, ARJA",
+                "GENDER ANALYSIS AND FORESTRY SECTION D: CASE STUDIES",
+                "FAO",
+                "1995",
+                "0255",
+                ""
+            ],
+            [
+                "WILDE, VICKI L. VIANIO-MATTILA, ARJA",
+                "GENDER ANALYSIS AND FORESTRY SECTION I: HOW TO DESIGN AND IMPLEMENT PARTICIPATORY TRAINING PROGRAMMES",
+                "FOA",
+                "1995",
+                "0256",
+                ""
+            ],
+            [
+                "WILDE, VICKI L. VIANIO-MATTILA, ARJA",
+                "GENDER ANALYSIS AND FORESTRY SECTION 2: HOW TO DESIGN AND CARRY OUT PARTICIPATORY TRAINING WORKSHOPS",
+                "FOA",
+                "1995",
+                "0257",
+                ""
+            ],
+            [
+                "WILDE, VICKI L. VIANIO-MATTILA, ARJA",
+                "GENDER ANALYSIS AND FORESTRY SECTION 3: HOW TO USE RAPID RURAL APPRAISAL (RRA) TO DEVELOP CASE STUDIES",
+                "FOA",
+                "1995",
+                "0258",
+                ""
+            ],
+            [
+                "WILDE, VICKI L. VIANIO-MATTILA, ARJA",
+                "GENDER ANALYSIS AND FORESTRY: USER’S GUIDE TO THE TRAINING PACKAGE",
+                "FOA",
+                "1995",
+                "0259",
+                ""
+            ],
+            [
+                "WILDE, VICKI L. VIANIO-MATTILA, ARJA",
+                "GENDER ANALYSIS AND FORESTRY: SLIDE SET SCRIPTS",
+                "FOA",
+                "1995",
+                "0260",
+                ""
+            ],
+            [
+                "MAFEJE, ARCHIE",
+                "THE ROLE OF THE CAPITAL ISM IN PREDOMINANTLY AGRARIAN ECONOMIES: ISS 25TH ANNIVERSARY CONFERENCE 16-20 DECEMBER 1977; GROUP DEVELOPMENT AND DEPENDENCE",
+                "FOA",
+                "1977",
+                "0261",
+                ""
+            ],
+            [
+                "SINGER, H.W.",
+                "REFLECTIONS ON THE LIMA (25%) TARGET: ISS 25TH ANNIVERSARY GROUP DEVELOPMENT AND DEPENDENCE",
+                "1977",
+                "0262",
+                "",
+                ""
+            ],
+            [
+                "BRAUN, OSCAR",
+                "PERSPECTIVES IN THE LATIN AMERICAN GROWTH CENTER: ISS 25TH ANNIVERSARY CONFERENCE, 16-20 DECEMBER 1977; GROUP A DEVELOPMENT AND DEPENDENCE",
+                "1977",
+                "0263",
+                "",
+                ""
+            ],
+            [
+                "SIDERI, SANDRO",
+                "DEVELOPMENT AND DEPENDENCE: THE EMERGING REGIONAL DIVISION OF LABOUR. IN LATIN AMERICA: ISS 25TH ANNIVERSARY CONF. 16-20 DECEMBER 1977: GROUP DEVELOPMENT AND DEPENDENCE",
+                "1977",
+                "0264",
+                "HF 1480.5",
+                ""
+            ],
+            [
+                "LIPTON, MICHEAL",
+                "THE TECHNOLOGY, THE SYSTEM AND THE POOR: THE CASE OF THE NEW CEREAL VARIETIES: ISS 25TH CONFERENCE ANNIVERSARY 16-20 DEC. STRATEGIES FOR THE RURAL POOR.",
+                "1977",
+                "0265",
+                "",
+                ""
+            ],
+            [
+                "BAYTELMAN, DAVID",
+                "INCREASING OBSTACLES TO THE SOLUTION OF THE FOOD PROBLEM IN THE THIRD WORLD: ISS 25TH ANNIVERSARY CONFERENCE PERSPECTIVES AND STRATEGIES FOR THE RURAL POOR",
+                "1977",
+                "0266",
+                "",
+                ""
+            ],
+            [
+                "FORTMAN, BAS DE GAAY THOMAS, HENK",
+                "THE INTERNATIONAL CRISIS: ADJUSTMENT POLICIES FOR INCOMES AND EMPLOYMENT: ISS 25TH ANNIVERSARY CONF. 16-20 DEC. 1977; GROUP D RESTRUCTURING INDUSTRIAL SOCIETIES AND THE NIEO",
+                "1977",
+                "0267",
+                "D509.In8",
+                ""
+            ],
+            [
+                "JOLLY, RICHARD",
+                "RESTRUCTURING THE ECONOMIES OF THE INDUSTRIALIZED COUNTRIES: A POSITIVE GAME? ISS 25TH ANNIVERSARY CONF. 16-20 DEC. 1977: GROUP D RESTRUCTURING INDUSTRIAL SOCIETIES AND THE NIEO",
+                "1977",
+                "0268",
+                "",
+                ""
+            ],
+            [
+                "HELLEINER, G.K.",
+                "STRUCTURAL ASPECTS OR THIRD WORLD TRADE SOME TRADE AND SOME PROSPECTS: ISS 25TH ANNIVERSARY CONF. 16-20 DEC. 1977; GROUP D.",
+                "1977",
+                "0269",
+                "",
+                ""
+            ],
+            [
+                "EMMERIT, LUIS VAN THEMAAT, JOAN, BER LOREN",
+                "RESTRUCTURING INDUSTRIALIZED COUNTRIES AND THE NEW INTERNATIONAL ORDER:",
+                "1977",
+                "0270",
+                "",
+                ""
+            ],
+            [
+                "ZIMMERMAN, L. J.",
+                "A RECONSIDERATION OF ECONOMIC DEVELOPMENT THEORIES 1952- 1977:",
+                "1977",
+                "0271",
+                "",
+                ""
+            ],
+            [
+                "VAN NIWUWEN HULJZE, C.A.O",
+                "BALANCED CARRIED FORWARD; A REVIEW OF 25YRS OF DEVELOPMENT STUDIES AT THE INSTITUTE OF SOCIAL STUDIES:",
+                "1977",
+                "0272",
+                "",
+                ""
+            ],
+            [
+                "ADELMAN, IRMA",
+                "REDISTRIBUTION BEFORE GROWTH—A STRATEGY FOR DEVELOPING COUNTRIES ISS 25TH ANNIVERSARY CONFERENCE OPEN GROUP.",
+                "1977",
+                "0273",
+                "HF1411.R24",
+                ""
+            ],
+            [
+                "HUIZER, GERRIT",
+                "CONFLICT RESOLUTION STRATEGIES ALTERNATIVE APPROACHES TO RURAL DEVELOPMENT: ISS 25TH ANNIVERSARY",
+                "1977",
+                "0274",
+                "",
+                ""
+            ],
+            [
+                "THE TECH. TRANSFER LIBRARY: PORTFOLIO MANAGEMENT STRATEGIES COMPLIED FROM THE ISSUE OF TECHNOLOGY TRANSFER TACTICS AND INTELLECTUAL PROPERTY MARKETING ADVISOR MONTHLY NEWSLETTERS",
+                "BIZWORLD, INC.",
+                "2009",
+                "0275",
+                "",
+                ""
+            ],
+            [
+                "THE TECH TRANSFER LIBRARY: EARLY STAGE FUNDING STRATEGIES",
+                "BIZWORLD, INC.",
+                "2009",
+                "0276",
+                "",
+                ""
+            ],
+            [
+                "THE TECH TRANSFER LIBRARY: LEGAL ISSUES AND STRATEGIES",
+                "BIZWORLD, INC.",
+                "2009",
+                "0277",
+                "",
+                ""
+            ],
+            [
+                "THE TECH. TRANSFER LIBRARY: IP MARKETING STRATEGIES AND TACTICS",
+                "BIZWORLD, INC.",
+                "2009",
+                "0278",
+                "",
+                ""
+            ],
+            [
+                "THE TECH. TRANSFER LIBRARY: FACULTY OUTREACH AND EDUCATION",
+                "BIZWORLD, INC.",
+                "2009",
+                "0279",
+                "",
+                ""
+            ],
+            [
+                "THE TECH. TRANSFER LIBRARY: CONTRACTING AND NEGOTIATING STRATEGIES",
+                "BIZWORLD, INC.",
+                "2009",
+                "0280",
+                "",
+                ""
+            ],
+            [
+                "THE TECH TRANSFER LIBRARY: PERFORMANCE IMPROVEMENT, EFFICIENCY, AND STAFFING STRATEGIES",
+                "BIZWORLD, INC.",
+                "2009",
+                "0281",
+                "",
+                ""
+            ],
+            [
+                "ABSORPTION AND DIFFUSION OF IMPORTED TECHNOLOGY: PROCEEDINGS OF A WORKSHOP HELD IN SINGAPORE, 26-30 JAN. 1981",
+                "IDRC",
+                "1983",
+                "0285",
+                "T27.AIAb8",
+                ""
+            ],
+            [
+                "INTERCROPPING WITH CASSAVA: PROCEEDINGS OF AN INTERNATIONAL WORKSHOP HELD AT TRI INDIA, 27 NOV-1 DEC. 1978",
+                "IDRC",
+                "1981",
+                "0291",
+                "SB 211\\. In8",
+                ""
+            ],
+            [
+                "SOLAR DRYING IN AGRIC PROCEEDING S OF A WORKSHOP HELD IN DAKAR, SENEGAL , 21-24 JULY 1986",
+                "IDRC",
+                "1984",
+                "0292",
+                "",
+                ""
+            ],
+            [
+                "SCIENCE AND TECHNOLOGY IMPLEMENTATION IN LESS DEVELOPED COUNTRIES: METHODOLOGICAL GUIDELINES FOR THE STPI PROJECT",
+                "IDRC",
+                "1976",
+                "0294",
+                "HC79.T4",
+                ""
+            ],
+            [
+                "SCIENCE AND TECHNOLOGY FOR DEVELOPMENT: THE EVOLUTION OF INDUSTRY IN STPI COUNTRIES",
+                "IDRC",
+                "1980",
+                "0295",
+                "HC79.T4",
+                ""
+            ],
+            [
+                "SCIENCE AND TECHNOLOGY FOR DEVELOPMENT: PLANNING IN THE STPI COUNTRIES",
+                "IDRC",
+                "0297",
+                "HC79.T4",
+                "",
+                ""
+            ],
+            [
+                "ARAOZ, ALBERTO",
+                "SCIENCE AND TECHNOLOGY FOR DEVELOPMENT; STPI MODULE 4: THE PRESENT SITUATION OF SCIENCE AND TECHNOLOGY IN THE STPI COUNTRIES",
+                "IDRC",
+                "1980",
+                "0298",
+                "HC79.T4"
+            ],
+            [
+                "ARAOZ, ALBERTO",
+                "SCIENCE AND TECHNOLOGY FOR DEVELOPMENT; STPI MODULE 5: POLICY INFRASTRUCTURE FOR THE GENERATION OF TECHNOLOGY",
+                "IDRC",
+                "1980",
+                "0299",
+                "HC79.T4"
+            ],
+            [
+                "SCIENCE AND TECHNOLOGY FOR DEVELOPMENT; POLICY INSTRUMENTS FOR THE REGULATION OF TECHNOLOGY IMPORTS",
+                "IDRC",
+                "1980",
+                "0300",
+                "HC79.T4",
+                ""
+            ],
+            [
+                "SAGASTI, F.",
+                "SCIENCE AND TECHNOLOGY FOR DEVELOPMENT: POLICY INSTRUMENT TO PROMOTE THE PERFORMANCE OF S AND T ACTIVITIES IN INDUSTRIAL ENTERPRISES",
+                "IDRC",
+                "1980",
+                "0302",
+                ""
+            ],
+            [
+                "BARRIO, S. CHUNG, K.M. TILLETT, A.",
+                "SCIENCE AND TECHNOLOGY FOR DEV.: POLICY INSTRUMENT FOR SUPPORT OF INDUSTRIAL SCIENCE AND TECH. ACTIVITIES",
+                "IDRC",
+                "1980",
+                "0303",
+                "HC79.T4"
+            ],
+            [
+                "SERCOVICH, F.",
+                "SCIENCE AND TECHNOLOGY FOR DEVELOPMENT: TECHNICAL CHANGES IN INDUSTRIAL BRANCHES",
+                "IDRC",
+                "1980",
+                "0304",
+                "HC79.T4"
+            ],
+            [
+                "SERCOVICH, F.",
+                "SCIENCE AND TECHNOLOGY FOR DEVELOPMENT: TECHNOLOGY BEHAVIOR OF INDUSTRIAL ENTERPRISES",
+                "IDRC",
+                "1980",
+                "0305",
+                "HC79.T4"
+            ],
+            [
+                "SERCOVICH, F.",
+                "SCIENCE AND TECHNOLOGY FOR DEVELOPMENT: CASE STUDIES ON TECHNICAL CHANGE",
+                "IDRC",
+                "1980",
+                "0306",
+                "HC79.T4"
+            ],
+            [
+                "SCOTT, G.K.",
+                "STRATEGIES FOR IMPROVING ORGANISATIONAL PERFORMANCE: A STUDY OF PROPOSALS OF SOME SELECTED CIVIL SERVICE DEPARTMENTS",
+                "2000",
+                "0308",
+                "",
+                ""
+            ],
+            [
+                "DAVIES, M. BRYN",
+                "THE NOVELS OF BENJAMIN DI-ISRAELI: OAN INAUGURAL LECTURE DELIVERED ON 25TH FEB. ,1969 AT THE UNIVERSITY OF GHANA, LEGON",
+                "GHANA UNI. PRESS",
+                "1969",
+                "0309",
+                ""
+            ],
+            [
+                "IMAM, M. M.",
+                "HOMO SCIENTIAE: A CRITICAL APPRAISAL; OPEN LECTURE DELIVERED ON 13TH NOVEMBER, 1974, AT THE CAPE COAST UNI. CAPE.",
+                "GUP",
+                "1974",
+                "0310",
+                ""
+            ],
+            [
+                "E. LAING ADDY, MARIAH MARKWEI, CAROL",
+                "GENETIC DEMONSTRATIONS : INSTRUCTOR’S MANUAL",
+                "GUP",
+                "1980",
+                "0311",
+                ""
+            ],
+            [
+                "ODURO, K. A.",
+                "THE ANESTHETIST AS A MEMBER OF THE HEALTH TEAM",
+                "GUP",
+                "1978",
+                "0313-0314",
+                ""
+            ],
+            [
+                "SMIT, A-F. J.",
+                "ASPECTS OF GEOLOGICAL PRACTICE AND EDUCATION IN GHANA: AN INAUGURAL LECTURE DELIVERED ON 23RD OCT.,1969 AT THE UNIVERSITY OF GHANA, LEGON",
+                "GUP",
+                "1970",
+                "0316",
+                "QE48.4.56"
+            ],
+            [
+                "ISSER",
+                "SUSTAINED GROWTH AND DEVELOPMENT: MEDIUM-TERM RESEARCH PROGRAMME 1993-1997",
+                "ISSER",
+                "1993",
+                "0317",
+                ""
+            ],
+            [
+                "DUCKWORTH, R.B.",
+                "A FOOD SCIENTIST LOOKS AT WALES: AN INAUGURAL LECTURE DELIVERED AT THE UNIVERSITY OF GHANA LEGON, ON FRIDAY, 24TH FEB., 1978",
+                "GUP",
+                "1978",
+                "0318",
+                ""
+            ],
+            [
+                "COKE, W.Z.",
+                "THE MEDICAL ENTOMOLOGIST’S CONTRIBUTION TOWARD HEALTH FOR ALL BY THE YEAR 2OO: AN INAUGURAL LECTURE DELIVERED AT THE UNIVERSITY OF GHANA LEGON ON 17TH APRIL, 1986",
+                "GUP",
+                "1986",
+                "0319-0320",
+                ""
+            ],
+            [
+                "EDUCATION FOR WHAT?: AN INAUGURAL LECTURE DELIVERED ON 17TH FEB., 1983 AT THE UNIVERSITY OF GHANA, LEGON",
+                "GUP",
+                "1986",
+                "0321",
+                "",
+                ""
+            ],
+            [
+                "ABRAHAM, J.H.",
+                "TECHNOLOGY, POLITICS AND VALUE: AN INAUGURAL LECTURE DELIVERED ON 15TH JANUARY, 1970 AT THE UNIVERSITY OF GHANA LEGON",
+                "GUP",
+                "1970",
+                "0322-0323",
+                ""
+            ],
+            [
+                "LAING, E.",
+                "A GENETICIST’S APOLOGY: THOUGHTS ON GENETICS TEACHING AND RESEARCH; AN INAUGURAL LECTURE DELIVERED AT THE UNIVERSITY OF GHANA ON 21ST MARCH, 1985",
+                "GUP",
+                "1985",
+                "0325",
+                ""
+            ],
+            [
+                "DICKSON, K.A.",
+                "THE HUMAN DIMENSION IN THE THEOLOGICAL QUEST: AN INAUGURAL LECTURE DELIVERED AT THE UNIVERSITY OF GHANA, LEGON ON THURSDAYS 6TH MAY, 1976.",
+                "GUP",
+                "1976",
+                "0327",
+                ""
+            ],
+            [
+                "LEWIS, ROGER A.",
+                "POLLUTION OF THE INTERNAL ENVIRONMENT: AN INAUGURAL LECTURE DELIVERED ON 18TH FEB. 1971\\. AT THE UNIVERSITY OF GHANA, LEGON",
+                "GUP",
+                "1971",
+                "0329",
+                ""
+            ],
+            [
+                "ELLIS, J.O.",
+                "LINGUISTICS IN A MULTILINGUAL SOCIETY: AN INAUGURAL LECTURE DELIVERED AN 16H APRIL 1970 AT THE UNVI. OF GHANA LEGON",
+                "GUP",
+                "1971",
+                "0331",
+                "PL 8021.G5"
+            ],
+            [
+                "RAMPHAL, SHRIDATH S.",
+                "NKRUMAH AND THE EIGHT TIES: KWAME NKRUMAH MEMORIAL LECTURES 1980",
+                "THIRD WORLD FOUNDATION",
+                "1981",
+                "0333",
+                "DT512.3.N57R14"
+            ],
+            [
+                "CASSAVA HARVESTING AND PROCESSING :PROCEEDING OF A WORKSHOP HELD AT CIAT, CALI, COLOMBIA, 24-28 APRIL 1978",
+                "IDRC",
+                "1978",
+                "0336",
+                "SB211.C3C32",
+                ""
+            ],
+            [
+                "DAVIS-CASE, D’ARCY",
+                "COMMUNITY FORESTRY: PARTICIPATORY ASSESSMENT, MONITORING AND EVALUATION, COMMUNITY FORESTRY NOTE 6",
+                "FAO",
+                "1989",
+                "0339",
+                "SD250.5"
+            ],
+            [
+                "FALCONER, JULIA",
+                "THE MAJOR SIGNIFICANCE OF MINOR’ FOREST PRODUCTS; THE LOCAL USE AND VALUE OF FORESTS IN THE WEST AFRICA AND HUMID FOREST ZONE; COMMUNITY FORESTRY NOTE 6",
+                "FAO",
+                "1990",
+                "0340",
+                ""
+            ],
+            [
+                "ENHANCING POSTHARVEST TECHNOLOGY GENERATION AND DISSEMINATION IN AFRICA: SASAKAWA GLOBAL 2000",
+                "SASAKAWA AFRICA ASSOCIATION",
+                "1999",
+                "0344",
+                "",
+                ""
+            ],
+            [
+                "CRITCHLEY, WILLIAM REIJ, CHRIS SEZNEC, ALAIN",
+                "INNOVATIVE EXTENSION EDUCATION IN AFRICAN; SASAKAWA-GLOBAL 2000",
+                "SASAKAWA AFRICA ASSOCIATION",
+                "2000",
+                "0345-0346",
+                ""
+            ],
+            [
+                "SHANE, BARBARA CHALKLEY, KATE",
+                "FROM RESEARCH TO ACTION: HOW OPERATIONS RESEARCH IS IMPROVING REPRODUCTIVE HEALTH SERVICES",
+                "1998",
+                "0347",
+                "",
+                ""
+            ],
+            [
+                "EICHER, CARL K.",
+                "SUSTAINABLE INSTITUTIONS FOR AFRICAN AGRICULTURAL DEVELOPMENT",
+                "ISNAR",
+                "1989",
+                "0351",
+                ""
+            ],
+            [
+                "NYANTENG, V.K.",
+                "FARMER-TRADER RELATIONSHIP: IS THERE EXPLOITATION:",
+                "1978",
+                "0356",
+                "",
+                ""
+            ],
+            [
+                "CLAWSON, SHANE LUCKETT, RICHARD",
+                "MCSE: ADMINISTERING EXCHANGE 2000 SERVER; STUDY GUIDE ( EXAM 70-224)",
+                "MCGRAW-HILL",
+                "2001",
+                "0360",
+                ""
+            ],
+            [
+                "BRITANNICA ATLAS",
+                "ENCYCLOPEDIA BRITANNICA, INC.",
+                "1977",
+                "0363",
+                "",
+                ""
+            ],
+            [
+                "VOLUME I A-G",
+                "WEBSTER’S THIRD NEW INTERNATIONAL DICTIONARY AND SEVENTH LANGUAGE DICTIONARY",
+                "G. AND C. MERRIAM CO.",
+                "1976",
+                "0364",
+                ""
+            ],
+            [
+                "VOLUME II H-R",
+                "WEBSTER’S THIRD NEW INTERNATIONAL DICTIONARY AND SEVENTH LANGUAGE DICTIONARY",
+                "G. AND C. MERRIAM CO.",
+                "1976",
+                "0365",
+                ""
+            ],
+            [
+                "VOLUME I S-Z",
+                "WEBSTER’S THIRD NEW INTERNATIONAL DICTIONARY AND SEVENTH LANGUAGE DICTIONARY",
+                "G. AND C. MERRIAM CO.",
+                "1976",
+                "0366",
+                ""
+            ],
+            [
+                "THE NEW HARVARD DICTIONARY OF MUSIC",
+                "THE BELKNAP PRESS OF HARVARD",
+                "1986",
+                "0367",
+                "",
+                ""
+            ],
+            [
+                "SHAFRITZ, JAY M. KOEPPE, RICHARD P. SOPER, ELIZABETH",
+                "THE FACTS ON FILE DICTIONARY OF EDUCATION",
+                "FACTS ON LIFE",
+                "1988",
+                "0368",
+                ""
+            ],
+            [
+                "ROGET, PELER MARK",
+                "ROGET’S THESAURUS OF SYNONYMS AND ANTONYMS",
+                "TOPHI BOOKS",
+                "1987",
+                "0369",
+                ""
+            ],
+            [
+                "GHARTERY, NANA K.T.",
+                "EXPLORING THE RELATIONSHIP BETWEEN LAND OCCUPANCY STRUCTURE AND FACTOR USES AND BY TYPICAL FARMING COMMUNITIES IN SOUTHERN GHANA",
+                "CDS",
+                "2000",
+                "0370",
+                ""
+            ],
+            [
+                "LIFE PLANNING SKILL: A CURRICULUM FOR YOUNG PEOPLE IN AFRICA; FACILITATORS MANUAL",
+                "2002",
+                "0371",
+                "",
+                "",
+                ""
+            ],
+            [
+                "GOVERNMENT OF GANA KOMEND – EDINA EGUAFO ABREM DISTRICT ASSEMBLY",
+                "A 5-YEAR DEVELOPMENT PLAN FOR KEEA DISTRICT: VOLUME 2 STRATEGIES AND DEVELOPMENT PROJECTS",
+                "0372",
+                "",
+                "",
+                ""
+            ],
+            [
+                "BROWN, C. K.",
+                "AGING AND FAMILY CARE IN GHANA: A STUDY IN CARING RELATIONSHIPS",
+                "CDS",
+                "1995",
+                "0373",
+                ""
+            ],
+            [
+                "EDWARDS, K.A. CLASSEN, G.A SCHROTEN E. H.J",
+                "THE WATER RESOURCE IN TROPICAL AFRICA AND ITS EXPLOITATION",
+                "ILCA",
+                "1983",
+                "0374",
+                ""
+            ],
+            [
+                "FIVE-YEAR RESEARCH PROGRAMME 1979-1984",
+                "CDS",
+                "1979",
+                "0375",
+                "",
+                ""
+            ],
+            [
+                "VAN HEEMST, JAN J.P.",
+                "FACTORS INTENSITIES AND ECONOMIC EFFICIENCY IN THE GHANAIAN SMALL SCALE FOOT. WARE INDUSTRY: A PRELIMINARY REPORT",
+                "CDS",
+                "1977",
+                "0376",
+                ""
+            ],
+            [
+                "DUMOR, E AMONOO, E.",
+                "THE FOCUS AND CONCENTRATE PROGRAMME IN THE SOMANYA DISTRICT: EVALUATION OF AN EXTENSION PROGRAMME",
+                "CDS",
+                "1973",
+                "0377",
+                ""
+            ],
+            [
+                "AMANQUAH, S.Y.",
+                "A REVIEW OF KENAF RESEARCH WITH SPECIAL REFERENCE TO GHANA; BULLETIN NO.1",
+                "GUP",
+                "1968",
+                "0378-0379",
+                ""
+            ],
+            [
+                "MICH, J. A.",
+                "TRADITIONAL, INTERMEDIATE AND ADVANCED TECHNOLOGIES IN AGRO-PROCESSING: THE CASE OF PALM OIL PRODUCTION: A PRELIMINARY STUDY",
+                "CDS",
+                "1978",
+                "0380-0381",
+                ""
+            ],
+            [
+                "BROWN, C.K.",
+                "INVENTORY OF RESEARCH AT THE UNIVERSITY OF CAPE COAST (1981- 1990**)**",
+                "CDS",
+                "1991",
+                "0382",
+                ""
+            ],
+            [
+                "DAPAAH, DR. SK.",
+                "CONTRIBUTION OF ROOT AND TUBER CROPS TO SOCIO ECONOMIC CHANGES IN THE DEVELOPING WORLD: THE CASE OF AFRICA WITH SPECIAL EMPHASIS ON GHANA; AN PAPER PRESENTED AT THE NINTH SYMPOSIUM OF THE ISTRC AT THE ACCRA INTERNATIONAL CONFERENCE CENTER, ACCRA, GHANA, OCT. 20-26, 1991",
+                "1991",
+                "0383",
+                "",
+                ""
+            ],
+            [
+                "BROWN, C.K.",
+                "FEATURES OF A PARTICIPATORY MANAGEMENT INFORMATION SYSTEM FOR RURAL DEVELOPMENT PROJECTS",
+                "CDS",
+                "1991",
+                "0384",
+                ""
+            ],
+            [
+                "ACHEAMPONG, ISAAC KWAKU",
+                "PRODUCTION TECHNOLOGIES IN SMALL- SCALE SOAP MANUFACTURING",
+                "CDS",
+                "1991",
+                "0385",
+                ""
+            ],
+            [
+                "MICAH, J.A. ANOKYE, N.A. BRITWUM, A.O",
+                "THE MARKETING OF VEGETABLES IN THE CENTRAL REGION OF GHANA: THE CASE OF TOMATOES AND GARDEN EGGS",
+                "CDS",
+                "2000",
+                "0386",
+                ""
+            ],
+            [
+                "HERBERT-COPLEY, BRENT",
+                "TECHNICAL CHANGE IN AFRICAN INDUSTRY: REFLECTIONS ON IDRC SUPPORTED RESEARCH; PAPER PREPARED FOR THE ANNUAL MEETING OF THE WATPS NETWORK, BANJUL, THE GAMBIA OCT 29- NOV. 2 1990",
+                "CDS",
+                "1990",
+                "0387",
+                ""
+            ],
+            [
+                "AMANQUAH, S.Y",
+                "A REVIEW OF KENAG RESEARCH WITH SPECIAL REFERENCE TO GHANA: BULLETING NO.1",
+                "GUP",
+                "19968",
+                "0388",
+                ""
+            ],
+            [
+                "AMONOO, E.",
+                "THE FLOW AND MARKETING OF AGRICULTURAL PRODUCE IN THE CENTRAL REGION WITH SPECIAL REFERENCES TO CAPE COAST",
+                "CDS",
+                "1974",
+                "0389",
+                ""
+            ],
+            [
+                "CHUKWYKERE, B.I.",
+                "CULTURAL RESILIENCE: THE ASAFO COMPANY SYSTEM OF THE FANTI",
+                "1970",
+                "0390",
+                "",
+                ""
+            ],
+            [
+                "VERCRUIJSSE, EMILE",
+                "THE SOCIO- ECONOMIC STRUCTURE OF CANOE FISHING IN TWO MFANTSE COMMUNITIES: A REPORT ON FIELD RE-SEARCH IN AMPENYI AND KROMANTSE, 1970",
+                "CDS",
+                "1979",
+                "0391",
+                ""
+            ],
+            [
+                "GREELEY, MARTIN JENKINS, ROB",
+                "MAINSTREAMING THE POVERTY- REDUCTION AGENDA: AN ANALYSIS OF INSTITUTIONAL MECHANISMS TO SUPPORT PRO- POOR POLICY MAKING AND IMPLEMENTATION IN SIX AFRICAN COUNTRIES",
+                "IDS",
+                "2001",
+                "0392",
+                ""
+            ],
+            [
+                "A REPORT ON THE SERIES OF WORKSHOPS ON CHOICE AF TECHNOLOGY AND PROJECT EVALUATION: SEPTEMBER 7, 1982 TO APRIL 6, 1984",
+                "0393",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "BOYD, T.A.",
+                "VALUE ORIENTATIONS INFLUENCING DECISION MAKING IN RURAL COMMUNITIES: AN EXPLORATORY STUDY",
+                "1971",
+                "0394",
+                "",
+                ""
+            ],
+            [
+                "BARANOWSKI, A.",
+                "SUGARCANE IN GHANA BULLETIN NO.2",
+                "CROPS RESEARCH INSTITUTE",
+                "1986",
+                "0395",
+                ""
+            ],
+            [
+                "PROCEEDINGS OF THE WORK-SHOP ON BIODIVERSITY",
+                "1992",
+                "0396",
+                "",
+                "",
+                ""
+            ],
+            [
+                "UN MILLENNIUM PROJECT 2005: INVESTING IN DEVELOPMENT: A PRACTICAL PLAN TO ACHIEVE THE MILLENNIUM DEVELOPMENT GOALS",
+                "EARTHSCAN",
+                "2005",
+                "0397",
+                "",
+                ""
+            ],
+            [
+                "MICAH, J.A.",
+                "REPORT ON BASELINE SURVEY OF TWIFO HEMAN LOWER DENKYIRA DISTRICT",
+                "0398",
+                "",
+                "",
+                ""
+            ],
+            [
+                "DEI, L. A. EKUMAH, E.K. GHARTEY, N.K.T",
+                "DEVELOPMENT PLAN FOR AJUMAKO-ENYAN-ESSIAM DISTRICT",
+                "1996",
+                "0399",
+                "",
+                ""
+            ],
+            [
+                "MINISTRY OF LOCAL GOVERNMENT AND RURAL DEVELOPMENT: FIVE YEAR DISTRICT DEVELOPMENT PLANT 1996-2000",
+                "1996",
+                "0400",
+                "",
+                "",
+                ""
+            ],
+            [
+                "INTEGRATED TOURISM DEVELOPMENT PROGRAMME GHA\/92\/013: TOURISM DEVELOPMENT ACTION PROGRAMME FOR GHANA 1996- 2000",
+                "1996",
+                "0401",
+                "",
+                "",
+                ""
+            ],
+            [
+                "SOCIETY FOR INTERNATIONAL DEVELOPMENT",
+                "THE STATE OF EAST AFRICA REPORT 2006: TRENDS, TENSIONS AND CONTRADICTIONS; THE LEADERSHIP CHALLENGE.",
+                "SOCIETY FOR INTERNATIONAL DEVELOPMENT (SID)",
+                "2006",
+                "0402",
+                ""
+            ],
+            [
+                "SOCIETY FOR INTERNATIONAL DEVELOPMENT",
+                "READINGS ON INEQUALITY IN KENYA: SECTORIAL DYNAMICS AND PERSPECTIVE",
+                "SID",
+                "2006",
+                "0403",
+                ""
+            ],
+            [
+                "THE STORY OF UGANDA: THE UGANDA SCENARIOS",
+                "SID",
+                "2004",
+                "0404",
+                "",
+                ""
+            ],
+            [
+                "SMART WATER SOLUTIONS; EXAMPLES OF INNOVATION LOW-COST TECHNOLOGIES FOR WELLS PUMPS, STORAGE, IRRIGATION AND WATER TREATMENT",
+                "NETHERLANDS WATER PARTNERSHIP",
+                "2006",
+                "0405",
+                "",
+                ""
+            ],
+            [
+                "SMART SANITATION SOLUTIONS; EXAMPLE OF INNOVATIVE, LOW-COST TECHNOLOGIES FOR TOILETS, COLLECTION TRANSPORTATION, TREATMENT USE OF SANCTION PRODUCTS",
+                "NWP",
+                "2006",
+                "0406",
+                "",
+                ""
+            ],
+            [
+                "INTEGRATED DEVELOPMENT: PLANNING PROJECT FOR THE NAKURU-NYANDARUA REGION-KENYA",
+                "S.S.C",
+                "1982",
+                "0407",
+                "",
+                ""
+            ],
+            [
+                "TURNER, TERISA",
+                "TWO REFINERIES: A COMPARATIVE STUDY OF TECHNOLOGY TRANSFER TO THE NIGERIAN REFINING INDUSTRY",
+                "ISS",
+                "1977",
+                "0408",
+                ""
+            ],
+            [
+                "MUNDLAK,YAIR",
+                "AGRICULTURAL GROWTH AND WORLD DEVELOPMENTS",
+                "IFPRI",
+                "1990",
+                "0409",
+                ""
+            ],
+            [
+                "ISLAM, NURUL",
+                "AGRICULTURAL GROWTH, TECHNOLOGICAL PROGRESS AND RURAL POVERTY",
+                "IFPRI",
+                "1988",
+                "0410",
+                ""
+            ],
+            [
+                "GONZALES, L.A.",
+                "RICE PRODUCTION AND REGIONAL CROP DIVERSIFICATION IN THE PHILIPPINES: ECONOMICS ISSUES",
+                "IFPRI",
+                "1987",
+                "0411",
+                ""
+            ],
+            [
+                "ROMIJN, HENNY",
+                "TECHNOLOGY SUPPORT FOR SMALL INDUSTRIES IN DEVELOPING COUNTRIES: FROM “SUPPLY-PUSH” TO EIGHTFOLD –C“",
+                "IDC",
+                "1999",
+                "0412",
+                ""
+            ],
+            [
+                "DEHTER, AARON",
+                "COMPARATIVE ANALYSIS OF MUNICIPAL BUDGETS FOR COMMUNITY SERVICES IN NEW SETTLEMENT TYPES",
+                "SSC",
+                "1987",
+                "0413",
+                ""
+            ],
+            [
+                "MAOS, JACOB O. PRION, ISRAEL",
+                "THE HIERARCHICAL ORGANIZATION OF RURAL SERVICE CENTERS AN: OPERATIONAL MODEL FOR REGIONAL DEVELOPMENT PLANNING",
+                "SSC",
+                "1987",
+                "0414",
+                ""
+            ],
+            [
+                "IMPROVEMENTS IN LEGAL AND REGULATORY CONSTRAINTS TO PRIVATE SECTOR DEVELOPMENT(COUNTRY CASE STUDY: ETHIOPIA)",
+                "1994",
+                "0415",
+                "",
+                "",
+                ""
+            ],
+            [
+                "NEW",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "J. C. JONES",
+                "ATMOSPHERIC POLLUTION",
+                "VENTUS PUBLISHINGS",
+                "2008",
+                "0455",
+                ""
+            ],
+            [
+                "RAMASWAMY PALANIAPPAN",
+                "BIOLOGICAL SIGNAL ANALYSIS",
+                "VENTUS PUBLISHINGS",
+                "2010",
+                "0456",
+                ""
+            ],
+            [
+                "STEPHEN MOFFAT THE MOUSE TRAINING COMPANY",
+                "POWER POINT 2010 ADVANCED",
+                "VENTUS PUBLISHINGS",
+                "2011",
+                "0457",
+                ""
+            ],
+            [
+                "ROGER MCHANEY",
+                "UNDERSTANDING COMPUTER SIMULATION",
+                "VENTUS PUBLISHINGS",
+                "2009",
+                "0458",
+                ""
+            ],
+            [
+                "WEIQI YAN JONATHAN WEIR",
+                "FUNDAMENTALS OF MEDIA SECURITY",
+                "VENTUS PUBLISHINGS",
+                "2010",
+                "0459",
+                ""
+            ],
+            [
+                "STEPHEN MOFFAT THE MOUSE TRAINING COMPANY",
+                "EXCEL 2010 INTRODUCTION PART II",
+                "VENTUS PUBLISHINGS",
+                "2011",
+                "0460",
+                ""
+            ],
+            [
+                "STEPHEN MOFFAT THE MOUSE TRAINING COMPANY",
+                "EXCEL 2010 INTRODUCTION PART I",
+                "VENTUS PUBLISHINGS",
+                "2011",
+                "0461",
+                ""
+            ],
+            [
+                "PETTER GOTTSCHALK",
+                "POLICING CYBER CRIME",
+                "VENTUS PUBLISHINGS",
+                "2010",
+                "0462",
+                ""
+            ],
+            [
+                "MICHAEL BATTY",
+                "ESSENTIAL ENGINEERING MATHEMATICS",
+                "VENTUS PUBLISHINGS",
+                "2011",
+                "0463",
+                ""
+            ],
+            [
+                "MINISTRY OF FOOD AND AGRICULTURAL(MOFA)",
+                "MEDIUM TERM AGRICULTURE SECTOR INVESTMENT PLAN( METASIP)",
+                "MOFA",
+                "2010",
+                "0466",
+                ""
+            ],
+            [
+                "GEOFFREY SAMPSON",
+                "LAW FOR COMPUTING STUDENTS",
+                "VENTUS PUBLISHINGS",
+                "2009",
+                "0465",
+                ""
+            ],
+            [
+                "STEPHEN HILL AND BEVIS FENNER",
+                "MEDIA AND CULTURAL THEORY",
+                "VENTUS PUBLISHINGS",
+                "2010",
+                "0464",
+                ""
+            ],
+            [
+                "STEPHEN MOFFAT THE MOUSE TRAINING COMPANY",
+                "EXCEL 2010 INTRODUCTION PART I",
+                "0429",
+                "",
+                "",
+                ""
+            ],
+            [
+                "CATHORINE SOANES ANGUS STEVENSON",
+                "CONCISE OXFORD DICTIONARY",
+                "OXFORD UNIVERSITY PRESS",
+                "2009",
+                "0430",
+                ""
+            ],
+            [
+                "GABRIEL A AYISI",
+                "HIGHER EDUCATION CENTERED ECONOMIC DEVELOPMENT AND GROW",
+                "2001",
+                "0431",
+                "",
+                ""
+            ],
+            [
+                "O. AKIN ADUBIFA",
+                "PROCEEDINGS OF THE ANNUAL WORKSHOP OF RESEARCHERS",
+                "1989",
+                "0432",
+                "",
+                ""
+            ],
+            [
+                "PEKKA JAMSEN",
+                "CAPITAL FORMATION IN",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "MAASTRICHT ECONOMICS RESEARCH INSTITUTE ON INNOVATION AND TECHNOLOGY",
+                "TECHNICAL CHANGE AND ECONOMIC THEORY",
+                "LONDON AND NEW YORK",
+                "1998",
+                "",
+                ""
+            ],
+            [
+                "PASI MALINEN",
+                "KENYAN FARMERS- OWNED COOPERATIVES",
+                "1999",
+                "0433",
+                "",
+                ""
+            ],
+            [
+                "E. V. ARAULLO",
+                "DIRECTORY OF FOOD SCIENCE AND TECHNOLOGY IN SOUTH EAST ASIA",
+                "IDRC",
+                "1975",
+                "0434",
+                ""
+            ],
+            [
+                "EMERGING ISSUES AND UNFINISHED BUSINESS GLOBALIZATION, TRADE REFORM, AND THE DEVELOPING COUNTRIES",
+                "IFPRI",
+                "1998",
+                "",
+                "",
+                ""
+            ],
+            [
+                "W.M.K. TROCHIM",
+                "RESEARCH METHOD KNOWLEDGE BASE",
+                "2006",
+                "0454",
+                "",
+                ""
+            ],
+            [
+                "INGEMAR LEKSELL",
+                "ECONOMIC VALUATION OF INCREASED MORTALITY DUE TO EXHAUST EMISSIONS OF FINE PARTICLES",
+                "GOTEBORG UNIVERSITY PRESS",
+                "2000",
+                "",
+                ""
+            ],
+            [
+                "INGEMAR LEKSELL",
+                "ECONOMIC VALUATION OF INCREASED MORTALITY DUE TO EXHAUST EMISSIONS OF FINE PARTICLES",
+                "GOTEBORG UNIVERSITY PRESS",
+                "2000",
+                "",
+                ""
+            ],
+            [
+                "DURO AJEYALENI",
+                "SCIENCE AND TECHNOLOGY EDUCATION IN AFRICA: FOCUS ON SEVEN SUB-SAHARAN COUNTRIES",
+                "UNIVERSITY OF LEGOS PRESS",
+                "1990",
+                "",
+                ""
+            ],
+            [
+                "ASSOCIATION FOR THE FOR DEVELOPMENT AFRICAN EDUCATIONAL INTERNATIONAL INSTITUTE",
+                "ANALYSES, AGENDAS AND PRIORITIES FOR EDUCATION IN AFRICA",
+                "1994",
+                "",
+                "",
+                ""
+            ],
+            [
+                "JOSEPH F. HEADLEY",
+                "STATISTICS A TOOL FOR SOCIAL RESEARCH",
+                "1997",
+                "",
+                "",
+                ""
+            ],
+            [
+                "WALTER NICHOLSON",
+                "MICROECONOMIC THEORY: BASIC PRINCIPLES AND EXTENSIONS",
+                "HB.172.N51",
+                "",
+                "",
+                ""
+            ],
+            [
+                "WEI FAN",
+                "RICH PEOPLE, STRONG NATION: THE ECONOMIC DIMENSION OF NATIONAL SECURITY",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "LARS O. OLSSON",
+                "TECHNOLOGY CARRIERS: THE ROLE OF ENGINEERS IN THE EXPANDING SWEDISH SHIP BUILDING SYSTEM",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "ROWENA MURRAY",
+                "HOW TO SURVIVE YOUR VIVA",
+                "McGRAW-HILL",
+                "2009",
+                "",
+                ""
+            ],
+            [
+                "ROBERTA MENCHI",
+                "LEARNING ENDOGENOUS DEVELOPMENT: BUILDING ON BIO-CULTURAL DIVERSITY",
+                "PRACTICAL ACTION PUBLISHING",
+                "2007",
+                "",
+                ""
+            ],
+            [
+                "DAISY KABAGARAMA",
+                "BREAKING THE ICE: A GUIDE TO UNDERSTANDING PEOPLE FROM OTHER CULTURES",
+                "USA",
+                "1993",
+                "0433",
+                "GN345.6.K11"
+            ],
+            [
+                "LES OAKSHOTT",
+                "ESSENTIAL QUANTITATIVE METHOD FOR BUSINESS, MANAGEMENT AND FINANCE",
+                "PALGRAVE MACMILLAN",
+                "2006",
+                "0442-0443",
+                ""
+            ],
+            [
+                "WILLIAM J GOODE PAUL K HATT",
+                "METHODS IN SOCIAL RESEARCH",
+                "SUBJECT PUBLICATION",
+                "2006",
+                "0428",
+                ""
+            ],
+            [
+                "BAFFOUR AGYEMAN DUA",
+                "GHANA GOVERNANCE IN THE FOURTH REPUBLIC",
+                "CDD-GHANA",
+                "2008",
+                "0427",
+                ""
+            ],
+            [
+                "RICHARD DAFT",
+                "UNDERSTANDING THEORY AND DESIGN OF ORGANIZATIONS",
+                "THOMPSON SOUTH- WESTERN",
+                "2007",
+                "0431",
+                ""
+            ],
+            [
+                "ANDREW J. DuBRIN",
+                "PRINCIPLES OF LEADERSHIP",
+                "SOUTH-WESTERN",
+                "2010",
+                "",
+                ""
+            ],
+            [
+                "STEWARD L. TUBBS",
+                "A SYSTEM APPROACH TO SMALL SCALE GROUP INTERACTION",
+                "McGRAW HILL",
+                "2001",
+                "",
+                ""
+            ],
+            [
+                "FREDERICK GRAVETTER LARRY B. WALLNAU",
+                "STATISTICS FOR THE BEHAVIORAL SCIENCE",
+                "WADSWORTH",
+                "2007",
+                "",
+                ""
+            ],
+            [
+                "ROBERT HISRICH MICHAEL PETERS DEAN SHEPHERD",
+                "ENTREPRENEURSHIP: AFRICAN EDITION",
+                "McGRAW HILL",
+                "2013",
+                "",
+                ""
+            ],
+            [
+                "MICHAEL P. TODARO",
+                "ECONOMIC S FOR A DEVELOPING WORLD: AN INTRODUCTION TO PRINCIPLES, PROBLEMS AND POLICIES FOR DEVELOPMENT",
+                "LONGMAN LONDON AND NEW YORK",
+                "1992",
+                "",
+                ""
+            ],
+            [
+                "GAAS",
+                "LAND AS A RESOURCE FOR COMMUNITY DEVELOPMENT",
+                "GHANA UNIVERSITY PRESS",
+                "2003",
+                "",
+                ""
+            ],
+            [
+                "HELENA LINDHOLM",
+                "ETHNICITY AND NATIONALISM: FORMATION OF IDENTITY AND DYNAMICS OF CONFLICTS IN THE 1990s",
+                "NORDNESS",
+                "1993",
+                "",
+                ""
+            ],
+            [
+                "MICHAEL GRAHAM JEAN WOO",
+                "FUELING ECONOMIC GROWTH: THE ROLE OF PUBLIC-SECTOR RESEARCH IN DEVELOPMENT",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "GERALD M. MEIER",
+                "LEADING ISSUES IN ECONOMIC DEVELOPMENT",
+                "NEW YORK OXFORD UNIVERSITY PRESS",
+                "1976",
+                "",
+                ""
+            ],
+            [
+                "J. B. HALL: DEPARTMENT OF BOTANY, UNIVERSITY OF GHANA",
+                "GAZETTEER OF PLANT COLLECTING LOCALITIES IN GHANA",
+                "GHANA UNIVERSITY PRESS, ACCRA",
+                "1980",
+                "",
+                ""
+            ],
+            [
+                "THE SWEDISH SOCIETY FOR THE CONSERVATION OF NATURE",
+                "SAVING THE OZONE LAYER",
+                "THE SWEDISH SOCIETY FOR THE CONSERVATION OF NATURE",
+                "1990",
+                "0332",
+                ""
+            ],
+            [
+                "JAMES B. BELL EARL W. BUXTON",
+                "EXPERIENCE",
+                "TORONTO NEW YORK",
+                "",
+                "",
+                ""
+            ],
+            [
+                "ANDREW BARNET LEO PYLE S. K. SUBRAMANAIAN",
+                "BIOGAS TECHNOLOGY IN THIRD WORLD: A MULTIDISCIPLINARY REVIEW",
+                "IDRC",
+                "1978",
+                "186",
+                ""
+            ],
+            [
+                "CHAVA FRANKFORT-NACHMIAS DAVID NACHMIAS",
+                "RESEARCH METHOD IN THE SOCIAL SCIENCES",
+                "ST. MARTIN’S PRES, INC. LONDON",
+                "1996",
+                "",
+                ""
+            ],
+            [
+                "ANIS CHOWDHURY COLIN KIRKPATRICK",
+                "DEVELOPMENT POLICY AND PLANNING : AN INTRODUCTION TO MODELS AND TECHNIQUES",
+                "ROUTLEDGE, LONDON",
+                "1994",
+                "",
+                ""
+            ],
+            [
+                "D J DWYER",
+                "DEVELOPMENT THEORY AND THE THREE WORLDS: TOWARDS AN INTERNATIONAL POLITICAL ECONOMIC DEVELOPMENT",
+                "LONGMAN GROUP LIMITED",
+                "1995",
+                "",
+                ""
+            ],
+            [
+                "THE INTERNET MARKETING ACADEMY",
+                "INTERNET MARKETING\/ THE INTERNET MARKETING ACADEMY",
+                "VENTUS PUBLISHING",
+                "2011",
+                "",
+                ""
+            ],
+            [
+                "GRAVETTER, FREDERICK WALLNAU B LARRY",
+                "STATISTICS FOR BEHAVIORAL SCIENCE",
+                "WADSWORTH",
+                "2004",
+                "0436",
+                "BF39.G78"
+            ],
+            [
+                "STERN MARIA",
+                "NAMING IN\/SECURITY-CONSTRUCTING IDENTITY: MAYAN-WOMEN’ IN GUATEMALA ON THE EVE OF ‘PEACE’",
+                "GOTEBERG UNIVERSITY",
+                "2005",
+                "0453",
+                "F1435.3.W55 S4"
+            ],
+            [
+                "ANIS CHOWDHURY COLIN KIRKPATRICK",
+                "DEVELOPMENT POLICY AND PLANNING",
+                "ROUTLEDGE",
+                "",
+                "0445",
+                "HD75.5.C45"
+            ],
+            [
+                "CHAVA FRANKFORT-NACHMIAS DAVID NACHMIAS",
+                "RESEARCH METHODS IN SOCIAL SCIENCE",
+                "ARNOLD",
+                "1996",
+                "0446",
+                "H61.N11"
+            ],
+            [
+                "GIOVANNI DOSI CHRISTOPHER FREEMAN RICHARD NELSON GERALD SILVERBERG LUC SOETE",
+                "TECHNICAL CHANGE AND ECONOMIC THEORY",
+                "THE INTERNATIONAL FEDERATION OF INSTITUTES FOR ADVANCED STUDY",
+                "1988",
+                "0447",
+                "HC70.T4T22"
+            ],
+            [
+                "BJORN HETTNE",
+                "DEVELOPMENT THEORY AND THE THREE WORLDS: TOWARDS AN INTERNATIONAL POLITICAL ECONOMY DEVELOPMENT",
+                "LONGMAN SCIENTIFIC AND TECHNOLOGICAL",
+                "1995",
+                "0448-0449",
+                "HD75.H47"
+            ],
+            [
+                "GIOVANNI DOSI CHRISTOPHER FREEMAN RICHARD NELSON GERALD SILVERBERG LUC SOETE",
+                "TECHNICAL CHANGE AND ECONOMIC THEORY",
+                "THE INTERNATIONAL FEDERATION OF INSTITUTES FOR ADVANCED STUDY",
+                "1988",
+                "0468",
+                "HC70.T4T22"
+            ],
+            [
+                "AMA BINEY",
+                "THE POLITICAL AND SOCIAL THOUGHT OF KWAME NKRUMAH",
+                "PALGRAVE MACMILLAN",
+                "2011",
+                "0469",
+                "DT512.3"
+            ],
+            [
+                "ECONOMIC AND SOCIAL COUNCIL",
+                "ACHIEVING GENDER EQUALITY, WOMEN’S EMPOWERMENT AND STRENGTHENING DEVELOPMENT COOPERATION",
+                "UNITED NATIONS",
+                "",
+                "0470",
+                "HQ1236"
+            ],
+            [
+                "SHELLEY FISHER",
+                "EXCEL 2013 CORE; INTRO",
+                "",
+                "",
+                "0471",
+                ""
+            ],
+            [
+                "LAWRENCE NEUMAN",
+                "SOCIAL RESEARCH METHOD",
+                "PEARSON",
+                "2011",
+                "0472",
+                "H62"
+            ],
+            [
+                "GRUNBERG LAURA",
+                "STUDIES ON HIGHER EDUCATION",
+                "UNESCO",
+                "",
+                "0473",
+                "HQ1180"
+            ],
+            [
+                "KATE YOUNG",
+                "PLANNING DEVELOPMENT",
+                "",
+                "",
+                "0474-0475",
+                "HQ1240.408"
+            ],
+            [
+                "ORGANIZATION FOR ECONOMIC CO-OPERATION AND DEVELOPMENT(OECD)",
+                "1ST CENTURY TECHNOLOGIES; PROMISES AND PERILS OF A DYNAMIC FUTURE",
+                "OECD",
+                "",
+                "0476",
+                ""
+            ],
+            [
+                "SARANTAKOS, S",
+                "SOCIAL RESEARCH",
+                "MACMILLAN",
+                "",
+                "0477",
+                "H61.Sa7"
+            ],
+            [
+                "INTERNATIONAL FUND FOR AGRICULTURAL DEVELOPMENT",
+                "COMMUNITY-DRIVEN DEVELOPMENT DECISION TOOL",
+                "IFAD",
+                "2008",
+                "0478",
+                "HV696"
+            ],
+            [
+                "INTERNATIONAL INSTITUTE FOR SUSTAINABLE DEVELOPMENT",
+                "STRATEGIES FOR SUSTAINABLE DEVELOPMENT",
+                "",
+                "",
+                "0479",
+                "HD75.6"
+            ],
+            [
+                "DAVID K AND MICHAEL J",
+                "WHAT ROLE DO LEGAL INSTITUTIONS PLAY IN DEVELOPMENT",
+                "UNIVERSITY OF TORONTO",
+                "1999",
+                "0480",
+                ""
+            ],
+            [
+                "KING J. MCHOMBU",
+                "SHARING KNOWLEDGE FOR COMMUNITY DEVELOPMENT AND TRANSFORMATION",
+                "CIDA",
+                "2004",
+                "0481",
+                ""
+            ],
+            [
+                "NKETSIA NANA KOBINA",
+                "AFRICAN CULTURE IN GOVERNANCE AND DEVELOPMENT",
+                "GHANA UNIV. PRESS",
+                "2013",
+                "0482",
+                "JQ 3036\\. N65"
+            ],
+            [
+                "GOOCH GRAHAM AND MILLIAN MICHAEL",
+                "DICTIONARY OF LAW ENFORCEMENT",
+                "",
+                "2007",
+                "0483",
+                "HV6017.G59"
+            ],
+            [
+                "BOAFO-ARTHUR KWAME(ED)",
+                "GHANA DECADE OF THE LIBERAL STATE",
+                "CODESRIAL BOOKS",
+                "2007",
+                "0484",
+                "DT512.32.934"
+            ],
+            [
+                "WALL NANCY, DAVID LINES, MARTIN BARRY",
+                "A-Z HANDBOOK: ECONOMICS AND BUSINESS",
+                "PHILIP ALLAN",
+                "2010",
+                "0485",
+                "HB61"
+            ],
+            [
+                "SOLOMON JILL, SOLOMON ARISE",
+                "CORPORATE GOVERNANCE AND ACCOUNTABILITY",
+                "WILEY",
+                "2010",
+                "0486",
+                "HD2741"
+            ],
+            [
+                "TADARO MICHAEL P SMITH, STEPHEN C",
+                "ECONOMIC DEVELOPMENT",
+                "PEARSON",
+                "2015",
+                "0487",
+                "HD82.T56"
+            ],
+            [
+                "OTT R, LYMAN LONGNECKER, MICHAEL",
+                "AN INTRODUCTION TO STATISTICAL METHODS AND DATA ANALYSIS",
+                "DUXBURY",
+                "2001",
+                "0488",
+                "QA276.Ot8"
+            ],
+            [
+                "ABODEKA FRANCIS",
+                "AN ECONOMIC HISTORY OF GHANA",
+                "GH. UNIV. PRESS",
+                "1992",
+                "0489",
+                "HC1060.Ag 1"
+            ],
+            [
+                "IRVIN GEORGE",
+                "MODERN COST-BENEFIT METHODS: AN INTRODUCTION TO FINANCIAL , ECONOMIC AND SOCIAL APPRAISAL OF DEV’T PROJECTS",
+                "INST. OF SOCIAL STUDIES",
+                "1977",
+                "0491",
+                "HD47.Ir8"
+            ],
+            [
+                "TEICH H. ALBERT",
+                "TECHNOLOGY AND THE FUTURE",
+                "ST. MARTIN’S PRESS NEW YORK",
+                "1997",
+                "0492",
+                "T14.5.T22"
+            ],
+            [
+                "EBEN TAWIA ANUWA-AMARH",
+                "UNDERSTANDING THE URBAN INFORMATION ECONOMY IN GHANA",
+                "FRIEDRICH EBERT STIFTUNG",
+                "",
+                "0493 – 500",
+                "HC110.I55An9"
+            ],
+            [
+                "PETERS G., PINGALI P.",
+                "TOMORROW’S AGRICULTURAL: INCENTIVES, INSTITUTIONS, INFRASTRUCTURE AND INNOVATIONS",
+                "INTERNATIONAL ASSOCIATION OF AGRICULTURAL ECONOMIST QUEEN ELIZABETH HOUSE, UNIVERSITY OF OXFORD",
+                "2001",
+                "501",
+                "HD1405.T59"
+            ],
+            [
+                "EVERETT M. ROGERS",
+                "DIFFUSIONS OF INNOVATIONS (THIRD EDITION)",
+                "MACMILLAN PUBLISHING CO. INC",
+                "1982",
+                "502",
+                ""
+            ],
+            [
+                "LANSANA KEITA",
+                "PHILOSOPHY AND AFRICAN DEVELOPMENT (THEORY AND PRACTICE)",
+                "CODESRIA",
+                "2011",
+                "503",
+                ""
+            ],
+            [
+                "DAVID FICK",
+                "AFRICAN ENTREPRENEURS IN THE 21ST CENTURY THEIR STORIES OF SUCCESS",
+                "EXCELLENT PUBLISHING AND PRINTING",
+                "2014",
+                "504",
+                ""
+            ],
+            [
+                "ROBERT SCHWARE",
+                "E- DEVELOPMENT: FROM EXCITEMENT TO EFFECTIVENESS",
+                "",
+                "2015",
+                "505",
+                ""
+            ],
+            [
+                "",
+                "NATIONAL PEACE COUNCIL 2013-2017 FIVE – YEAR STRATEGIC PLAN",
+                "",
+                "2013",
+                "506",
+                ""
+            ],
+            [
+                "LISE ORTERGAARD",
+                "GENDER AND DEVELOPMENT A PRACTICAL GUIDE",
+                "ROUTLEDGE",
+                "1994",
+                "507",
+                ""
+            ],
+            [
+                "H. NANDAN",
+                "FUNDAMENTALS OF ENTREPRENEURSHIP",
+                "FIFTH PRINTING",
+                "2013",
+                "508",
+                ""
+            ],
+            [
+                "LORENZO COTULA",
+                "GENDER AND LAW WOMENS RIGHT IN AGRICULTURE",
+                "SAURABH PRINTING HOUSE",
+                "2006",
+                "509",
+                ""
+            ],
+            [
+                "K. SAXENA",
+                "WOMEN WELFARE AND EMPOWERMENT",
+                "",
+                "",
+                "510",
+                ""
+            ],
+            [
+                "GUDRUN KOCHENDORFERC- LUCIUS AND BORIS PLESKOVIC",
+                "DEVELOPMENT AND THE NEXT GENERATION",
+                "",
+                "2007",
+                "511",
+                ""
+            ],
+            [
+                "PETER DARVAS AND DAVID BALWANZ",
+                "BASIC EDUCATION BEYOND THE MILLENIUM DEVELOPMENT GOALS IN GHANA",
+                "",
+                "2014",
+                "512",
+                ""
+            ],
+            [
+                "MOHD SAUD ILAHI",
+                "DEVELOPMENT OF ENTREPRENEURSHIP",
+                "REGAL PUBLICATIONS",
+                "2010",
+                "513",
+                ""
+            ],
+            [
+                "TSJEARD BOUTA GEORG FREKS IAN BANNON",
+                "GENDER, CONFLICT AND DEVELOPMENT",
+                "",
+                "2005",
+                "514",
+                ""
+            ],
+            [
+                "SUHAS KETKAR AND DILIP JOSEPH BOATENG AGYENIM",
+                "INNOVATIVE FINANCING FOR DEVELOPMENT INVESTIGATING INSTITUTIONAL ARRANGEMENTS FOR INTEGRATED WATER RESOURCE MANAGEMENT IN DEVELOPING COUNTRIES",
+                "",
+                "2009",
+                "515 516",
+                ""
+            ],
+            [
+                "THOMPSON A. ARTHUR JR STRICKLAND A. J GAMBLE E. JOHN",
+                "CRAFTING AND EXECUTING STRATEGY: THE QUEST FOR COMPETITIVE ADVANTAGE",
+                "McGRAW-HILL",
+                "2010",
+                "517",
+                ""
+            ],
+            [
+                "LAUDON C. KENNETH LAUDON P. JANE",
+                "MANAGEMENT INFORMATION SYSTEMS: MANAGING THE DIGITAL FIRM",
+                "PEARSON",
+                "2009",
+                "518",
+                ""
+            ],
+            [
+                "BRIGHAM F. EUGENE HOUSTON F. JOEL",
+                "FUNDAMENTALS OF FINANCIAL MANAGEMENT",
+                "SOUTH-WEST CENGAGE LEARNING",
+                "2013",
+                "519",
+                ""
+            ]
+        ]
+    },
+    {
+        "type": "table",
+        "title": "MA\/M.PHIL THESIS",
+        "headers": [
+            "Author(s)",
+            "Title",
+            "Publisher",
+            "Year",
+            "Accession No.",
+            "Class No."
+        ],
+        "rows": [
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "JOSEPH AIDOO",
+                "PERFORMANCE APPRAISAL IN FIRST ALLIED SAVINGS AND LOANS LTD",
+                "2007"
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "JONANTHAN TAWIAH",
+                "AN EVALUATION OF THE RECRUITMENT PROCESS IN THREE PUBLIC ORGANISATIONS",
+                "2007"
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "SAMUEL KORANTENG-ASARE",
+                "STAFF RECRUITMENT AND RETENTION: A STUDY OF WORLD VISION GHANA",
+                "2008"
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "EMMANUEL ANTWI",
+                "HUMAN RESOURCE PLANNING IN SELECTED TERTIARY EDUCATIONAL INSTITUTIONS IN ASHANTI REGION",
+                "2008"
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "FRANCIS ARMO-ANNOR",
+                "COMMUNITY LEADERSHIP IN WORLD VISION DEVELOPMENT PROGRAMME AREAS IN ASSIN DISTRICT",
+                "2008"
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "SAMUEL AKUAMOAH -BOATENG",
+                "SMALL SCALE MAIZE FARMERS AND APPLICATION OF IMPROVED AGRICULTURAL TECHNOLOGIES:A CASE STUDY OF EJURA SEKYERE ODUMASE DISTRICT OF GHANA",
+                "1996"
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "WILLIAN GHARTEY",
+                "CONSUMPTION AND SAVINGS BEHAVIOUR AMONG SMALL SCALE AGRICULTURAL OPERATIONS: A CASE STUDY OF SMALL FARMER HOUSEHOLDS IN LOWER DENKYIRA DISTRICT, CENTRAL REGION, GHANA",
+                "1997"
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "TENII MAMMAH",
+                "COMMUNITY PARTICIPATION AND SUSTAINABLE DEVELOPMENT: A CASE STUDY OF PARTICIPATION IN THE ECCD PROGRAMME INTERVENTIONS OF PLAN INTERNATIONAL",
+                "2001"
+            ],
+            [
+                "UNIVERSITY OF GOTEBORG",
+                "FREDRIK ARONSON TULA EKENGREN",
+                "COCONUT OIL EXTRACTION IN THE VILLAGE OF EDUMAFA, GHANA-TECHNOLOGIES, RESOURCES AND SOCIO-ECONOMIC CONTEXT",
+                "1998"
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "JOHN STEPHEN QUAISIE",
+                "THE IMPACT OF DEVELOPMENT ASSISTANCE PROVIDED BY WORLD VISION INTERNATIONAL ON THE RELIGIOUS LIFE OF A SELECTED RURAL COMMUNITIES IN GHANA",
+                "1994"
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "EBENEZER TAWIAH ANUWA-AMARH",
+                "THE DEVELOPMENT OF TECHNOLOGICAL CAPABILITIES IN GHANAIAN MANUFACTURING: CASE STUDIES OF ALU WORKS AND WAMCO",
+                "1999"
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "JUSTICE SAKYI ANOFF",
+                "STRUCTURAL ADJUSTMENT AND CROP PRODUCTION IN GHANA: A CASE STUDY OF ASSIN DISTRICT",
+                "2001"
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "RAPHAEL ASAMOAH",
+                "HUMAN RESOURCE DEVELOPMENT AND ATTAINMENT OF ORGANISATIONAL GOALS: A CASE STUDY OF SINAPU ABA TRUST",
+                "2004"
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "HANNA ESI AKYERE ACQUAH",
+                "THE CHALLENGES OF STAFF DEVELOPMENT: THE CASE STUDY OF CAPE COAST POLYTECHNIC",
+                "2005"
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "ROBERT YAW ASIEDU- DANQUAH",
+                "THE NATURE AND CAUSES OF EMPLOYEE TURNOVER IN THE INTERNAL REVENUE SERVICE, GHANA 1986-2004",
+                "2006"
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "MICHAEL KOBINA AYENSAH",
+                "FINANCING LOCAL LEVEL DEVELOPMENT: A CASE STUDY OF THE AGONA AND ASSIN DISTRICT ASSEMBLIES (1993-1997)",
+                "2007"
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "DELANYO AYEE QUAYSON",
+                "PERFORMANCE MANAGEMENT IN GHANAIAN INDUSTRIES: A CASE STUDY OF BRITISH AMERICAN TOBACCO GHANA LIMITED",
+                "2005"
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "DELANYO AYEE QUAYSON",
+                "PERFORMANCE MANAGEMENT IN GHANAIAN INDUSTRIES: A CASE STUDY OF BRITISH AMERICAN TOBACCO GHANA LIMITED",
+                "2006"
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "REBECCA OWUSU",
+                "MARKET INTEGRATION AND SPATIAL PRICE TRANSMISSION OF SELECTED CASSAVA MARKETS IN GHANA",
+                "2011"
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "EMMANUEL KOJO KUMASHIE",
+                "ECONOMIC EFFICIENCY OF PINEAPPLE PRODUCTION IN AKWAPIM SOUTH MUNICIPALITY IN THE EASTERN REGION OF GHANA",
+                "2012"
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "BENJAMIN KOBINA BUKARI",
+                "EFFICIENCY OF THE TRADITIONAL SHEA BUTTER PROCESSING IN THE UPPER WEST REGION OF GHANA",
+                "2012"
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "EMMANUEL ADJEI",
+                "DETERMINANTS OF COCOA FARMERS’ ACCESS TO CREDIT IN THE UPPER DENKYIRA EAST MUNICIPALITY IN THE CENTRAL REGION OF GHANA",
+                "2012"
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "ALFRED ACKUMEY",
+                "TECHNICAL EFFICIENCY OF SMALL SCALE PALM OIL PRODUCTION IN THE CENTRAL REGION OF GHANA",
+                "2013"
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "ISAAC OBENG ANTWARKO",
+                "EFFICIENCY OF INPUTS USE IN COCOA PRODUCTION IN TWIFO HEMANG LOWER DENKYIRA AREA OF THE CENTRAL REGION OF GHANA",
+                "2014"
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "KWAKU ASUAKO TABIRI",
+                "RESOURCE UTILIZATION IN MAIZE PRODUCTION IN THE CENTRAL REGION OF GHANA",
+                "2014"
+            ],
+            [
+                "**PH.D THESIS**",
+                "",
+                "",
+                ""
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "JOHN KWABENA TUFOUR",
+                "SEASONAL PRICE FLUCTUATION AND INTER-TEMPORAL ARBITRAGE IN MAIZE: IMPLICATIONS FOR FOOD POLICY IN GHANA",
+                "2005"
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "SULLAY SISCO KAMARA",
+                "LOCAL PARTNERSHIP FOR SUSTAINABLE RURAL LIVELIHOODS: A CASE STUDY OF THREE WEST AFRICAN VILLAGES",
+                "2003"
+            ],
+            [
+                "CHALMERS UNIVERSITY OF TECHNOLOGY AND GOTEBORG UNIVERSITY GOTEBORG, SWEDEN",
+                "JULIE GOLD",
+                "MICRO FABRICATION FOR BIOLOGICAL APPLICATIONS: PREPARATIONS, CHARACTERISTICS AND BIOLOGICAL EVALUATION",
+                "1996"
+            ],
+            [
+                "CHALMERS GOTEBORG UNIVERSITY",
+                "GORAND BERNDES",
+                "BIOMASS IN THE ENERGY SYSTEM: RESOURCE REQUIREMENTS AND COMPETITION FOR LAND",
+                "2001"
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "JOHN ANDOH MICAH",
+                "TECHNOLOGICAL CHANGE IN RURAL PRODUCTION: THE CASE STUDY OF THE GHANAIAN PALM OIL INDUSTRY",
+                "1990"
+            ],
+            [
+                "UNIVERSITY OF GHANA-LEGON",
+                "FRANK E. KLU",
+                "EFFICIENCY OF SMALL SCALE AUTO REPAIRS WORKSHOPS IN ACCRA",
+                "1979"
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "PHILIP NSO AWEKEYA",
+                "NON-GOVERNMENTAL ORGANISATIONS AND RURAL DEVELOPMENT IN NORTHERN GHANA: THE CASE OF WORLD VISION",
+                "2006"
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "GEORGE OWUSU ESSEGBEY",
+                "TECHNOLOGICAL CAPACITY BUILDING IN DEVELOPING COUNTRIES: THE CASE OF CROP BIOTECHNOLOGY IN GHANA",
+                "2002"
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "BEATRICE MENSAH",
+                "UTILIZATION OF RESEARCH AND DEVELOPMENT(R&D) OUTPUTS FROM INSTITUTES OF THE COUNCIL FOR SCIENTIFIC AND INDUSTRIAL RESEARCH IN GHANA",
+                "2003"
+            ],
+            [
+                "GOTEBORG UNIVERSITY",
+                "BRUUN HENRIK",
+                "INTRA-AND INTERDISCIPLINARY ANALYSES OF HUMAN ACTION, PLANNING PRACTICES AND TECHNOLOGICAL CHANGE",
+                "2000"
+            ],
+            [
+                "VRIJE UNIVERSITY",
+                "AGYENIM BOATENG, JOSEPH",
+                "INVESTIGATING INSTITUTIONAL ARRANGEMENTS FOR INTEGRATED WATER RESOURCE MANAGEMENT IN DEVELOPING COUNTRIES: THE CASE OF WHITE VOLTA BASIN, GHANA",
+                "2011"
+            ],
+            [
+                "GOTEBORG UNIVERSITY",
+                "MERRIT, POLK",
+                "GENDERED MOBILITY: A STUDY OF WOMEN’S AND MEN’S RELATIONSHIPS TO AUTO MOBILITY IN SWEDEN",
+                "1998"
+            ],
+            [
+                "GOTEBORG UNIVERSITY",
+                "LUNDQVIST, ULRIKA",
+                "ON SUSTAINABILITY INDICATORS AND SUSTAINABILITY PRODUCT DEVELOPMENT",
+                "2000"
+            ],
+            [
+                "GOTEBORG UNIVERSITY",
+                "ANDERSON, BJORN A",
+                "MATERIAL CONSTRAINTS ON TECHNOLOGY EVOLUTION: THE CASE OF SCARCE METALS AND EMERGING ENERGY TECHNOLOGIES",
+                "2001"
+            ],
+            [
+                "CHALMERS UNIVERSITY OF TECHNOLOGY, SWEDEN",
+                "ALANGE SVERKER",
+                "ACQUISITION OF CAPABILITIES THROUGH INTERNATIONAL TECHNOLOGY TRANSFER",
+                "1987"
+            ],
+            [
+                "GOTEBORG UNIVERSITY",
+                "FRAMDBERG LOTTA",
+                "DISTANCE MATTERS: AN ENQUIRY INTO THE RELATION BETWEEN TRANSPORT AND ENVIRONMENTAL SUSTAINABILITY IN TOURISM",
+                "1998"
+            ],
+            [
+                "GOTEBORG UNIVERSITY",
+                "PERSSON JONAS",
+                "HYPERFINE STRUCTURE INVESTIGATIONS: THE CONNECTION BETWEEN ATOMIC AND NUCLEAR PHYSICS",
+                "1993"
+            ],
+            [
+                "GOTEBORG UNIVERSITY",
+                "BAAZ MARIA ERIKSSON",
+                "THE WHITE WO\/MAN’S BURDEN IN THE AGE OF PARTNERSHIP",
+                "2002"
+            ],
+            [
+                "GOTEBORG UNIVERSITY",
+                "BANGENS LENNART",
+                "INTER-FARM LINKAGES AND LEARNING : AN EMPIRICAL EXPLORATION OF FIRMS IN THE THIRD WORD",
+                "1998"
+            ],
+            [
+                "CHALMERS UNIVERSITY",
+                "MANSSON BENGT A.G",
+                "CONTRIBUTIONS TO PHYSICAL RESOURCES THEORY",
+                "1985"
+            ],
+            [
+                "GOTEBORG UNIVERSITY",
+                "LINDGREN KRISTIAN",
+                "PHYSICS AND INFORMATION THEORY",
+                "1988"
+            ],
+            [
+                "GOTEBORG UNIVERSITY",
+                "HOLMBERG JOHN",
+                "SOCIO-ECOLOGICAL PRINCIPLES AND INDICATORS FOR SUSTAINABILITY",
+                "1995"
+            ],
+            [
+                "GOTEBORG UNIVERSITY",
+                "RADE INGRID",
+                "REQUIREMENT AND AVAILABILITY OF SCARCE METALS FOR FUEL-CELL AND BATTERY ELECTRIC VEHICLES",
+                ""
+            ],
+            [
+                "UNIVERSITY OF CAPE COAST",
+                "PHILIP NSO AWEKEYA",
+                "THE CONTRIBUTION OF WORLD VISION GHANA TO RURAL DEVELOPMENT IN NORTHERN GHANA",
+                "2008"
+            ],
+            [
+                "VRIJE UNIVERSITEIT",
+                "JOSEPH BOATENG AGYENIM",
+                "INVESTIGATING INSTITUTIONAL ARRANGEMENTS FOR INTEGRATED WATER RESOURCE MANAGEMENT IN DEVELOPING COUNTRIES: THE CASE STUDY OF WHITE VOLTA BASIN, GHANA",
+                ""
+            ],
+            [
+                "**NAME OF JOURNAL**",
+                "**INSTITUTION**"
+            ],
+            [
+                "DEVELOPMENT",
+                "**SID**– SOCIETY FOR INTERNATIONAL DEVELOPMENT"
+            ],
+            [
+                "AUTUM TECHNOLOGY TRANSFER MANUALS",
+                "**AUTM**\\-ASSOCIATION OF UNIVERSITY TECHNOLOGY MANAGERS"
+            ],
+            [
+                "TECHNOLOGY TRANSFER TACTICS",
+                "**LES**\\-LICENSING EXECUTIVE SOCIETY"
+            ],
+            [
+                "ISS WORKING PAPER SERIES IDRC WORKING PAPER SERIES",
+                "**ISS-**INSTITUTE OF SOCIAL STUDIES IDRC-INTERNATIONAL DEVELOPMENT RESEACH CENTRE"
+            ]
+        ]
+    },
+    {
+        "type": "list",
+        "title": "Other Collections",
+        "items": [
+            "AUTM CONFERENCE VIDEOS",
+            "INDEX PRESS CUTTINGS FROM GHANAIAN DAILIES",
+            "RESEARCH REPORTS: CENTRE FOR DEVELOPMENT STUDIES, UNIVERSITY OF CAPE COAST"
+        ]
+    }
+]
