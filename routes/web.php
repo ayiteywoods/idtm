@@ -81,6 +81,10 @@ Route::middleware(['auth', 'role:student'])->prefix('portal')->name('student.')-
     Route::get('/registration/catalog', [StudentDashboardController::class, 'registrationCatalog'])->name('registration.catalog');
     Route::post('/registration', [StudentDashboardController::class, 'storeRegistration'])->name('registration.store');
     Route::get('/grades', [StudentDashboardController::class, 'grades'])->name('grades');
+    Route::get('/assessments', [StudentDashboardController::class, 'assessments'])->name('assessments');
+    Route::post('/assessments/{assessment}/submit', [StudentDashboardController::class, 'submitAssessment'])->name('assessments.submit');
+    Route::get('/assessments/{assessment}/brief', [StudentDashboardController::class, 'downloadAssessmentBrief'])->name('assessments.brief');
+    Route::get('/submissions/{submission}/download', [StudentDashboardController::class, 'downloadSubmission'])->name('submissions.download');
     Route::get('/learning-materials', [StudentDashboardController::class, 'learningMaterials'])->name('learning-materials');
     Route::get('/library', [StudentDashboardController::class, 'library'])->name('library');
     Route::get('/help-desk', [StudentDashboardController::class, 'helpDesk'])->name('help-desk');
@@ -98,6 +102,13 @@ Route::middleware(['auth', 'role:faculty'])->prefix('faculty')->name('faculty.')
     Route::delete('/materials/{material}', [FacultyDashboardController::class, 'destroyMaterial'])->name('materials.destroy');
     Route::get('/grades', [FacultyDashboardController::class, 'grades'])->name('grades.index');
     Route::post('/grades', [FacultyDashboardController::class, 'storeGrade'])->name('grades.store');
+    Route::get('/assessments', [FacultyDashboardController::class, 'assessments'])->name('assessments.index');
+    Route::post('/assessments', [FacultyDashboardController::class, 'storeAssessment'])->name('assessments.store');
+    Route::get('/assessments/{assessment}', [FacultyDashboardController::class, 'showAssessment'])->name('assessments.show');
+    Route::delete('/assessments/{assessment}', [FacultyDashboardController::class, 'destroyAssessment'])->name('assessments.destroy');
+    Route::get('/assessments/{assessment}/brief', [FacultyDashboardController::class, 'downloadAssessmentBrief'])->name('assessments.brief');
+    Route::post('/submissions/{submission}/grade', [FacultyDashboardController::class, 'gradeSubmission'])->name('submissions.grade');
+    Route::get('/submissions/{submission}/download', [FacultyDashboardController::class, 'downloadSubmission'])->name('submissions.download');
     Route::get('/library', [FacultyDashboardController::class, 'library'])->name('library.index');
     Route::post('/library', [FacultyDashboardController::class, 'storeLibraryBook'])->name('library.store');
     Route::delete('/library/{book}', [FacultyDashboardController::class, 'destroyLibraryBook'])->name('library.destroy');

@@ -62,6 +62,11 @@ class StudentProfile extends Model
         return $this->hasMany(ChangeRequest::class);
     }
 
+    public function submissions(): HasMany
+    {
+        return $this->hasMany(AssessmentSubmission::class);
+    }
+
     public function paymentPlan(): HasOne
     {
         return $this->hasOne(PaymentPlan::class);

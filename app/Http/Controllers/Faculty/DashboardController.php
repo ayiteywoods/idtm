@@ -3,6 +3,8 @@
 namespace App\Http\Controllers\Faculty;
 
 use App\Http\Controllers\Controller;
+use App\Models\Assessment;
+use App\Models\AssessmentSubmission;
 use App\Models\Course;
 use App\Models\CourseRegistration;
 use App\Models\Grade;
@@ -10,6 +12,8 @@ use App\Models\LearningMaterial;
 use App\Models\LibraryBook;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Storage;
+use Symfony\Component\HttpFoundation\StreamedResponse;
 use Illuminate\View\View;
 
 class DashboardController extends Controller
@@ -151,6 +155,163 @@ class DashboardController extends Controller
         return redirect()
             ->route('faculty.grades.index')
             ->with('status', 'Grade was recorded successfully.');
+    }
+
+    public function assessments(Request $request): View
+    {
+        $profile = $request->user()->facultyProfile()->firstOrFail();
+        $courses = $profile->courses()->orderBy('code')->get();
+
+        $assessments = Assessment::query()
+            ->whereIn('course_id', $courses->pluck('id'))
+            ->with('course')
+            ->withCount('submissions')
+            ->latest()
+            ->paginate(15);
+
+        return view('faculty.assessments.index', compact('profile', 'courses', 'assessments'));
+    }
+
+    public function storeAssessment(Request $request): RedirectResponse
+    {
+        $profile = $request->user()->facultyProfile()->firstOrFail();
+
+        $validated = $request->validate([
+            'course_id' => ['required', 'exists:courses,id'],
+            'type' => ['required', 'in:'.implode(',', Assessment::TYPES)],
+            'title' => ['required', 'string', 'max:255'],
+            'instructions' => ['nullable', 'string', 'max:5000'],
+            'max_score' => ['required', 'numeric', 'min:1'],
+            'due_at' => ['nullable', 'date'],
+            'attachment' => ['nullable', 'file', 'max:'.Assessment::UPLOAD_MAX_KB, 'mimes:'.Assessment::UPLOAD_MIMES],
+        ]);
+
+        abort_unless($profile->courses()->where('courses.id', $validated['course_id'])->exists(), 403);
+
+        $attachmentPath = null;
+        $attachmentName = null;
+
+        if ($request->hasFile('attachment')) {
+            $file = $request->file('attachment');
+            $attachmentName = $file->getClientOriginalName();
+            $attachmentPath = $file->store('assessments/briefs', 'local');
+        }
+
+        $profile->assessments()->create([
+            'course_id' => $validated['course_id'],
+            'type' => $validated['type'],
+            'title' => $validated['title'],
+            'instructions' => $validated['instructions'] ?? null,
+            'max_score' => $validated['max_score'],
+            'due_at' => $validated['due_at'] ?? null,
+            'attachment_path' => $attachmentPath,
+            'attachment_name' => $attachmentName,
+            'is_published' => true,
+        ]);
+
+        return redirect()
+            ->route('faculty.assessments.index')
+            ->with('status', 'Assessment was published successfully.');
+    }
+
+    public function showAssessment(Request $request, Assessment $assessment): View
+    {
+        $profile = $this->authorizeAssessment($request, $assessment);
+
+        $assessment->load('course');
+        $registeredCount = CourseRegistration::where('course_id', $assessment->course_id)->count();
+        $submissions = $assessment->submissions()
+            ->with('student.user')
+            ->latest('submitted_at')
+            ->get();
+
+        return view('faculty.assessments.show', compact('profile', 'assessment', 'submissions', 'registeredCount'));
+    }
+
+    public function destroyAssessment(Request $request, Assessment $assessment): RedirectResponse
+    {
+        $this->authorizeAssessment($request, $assessment);
+
+        foreach ($assessment->submissions as $submission) {
+            Storage::disk('local')->delete($submission->file_path);
+        }
+
+        if ($assessment->attachment_path) {
+            Storage::disk('local')->delete($assessment->attachment_path);
+        }
+
+        $assessment->delete();
+
+        return redirect()
+            ->route('faculty.assessments.index')
+            ->with('status', 'Assessment was deleted successfully.');
+    }
+
+    public function gradeSubmission(Request $request, AssessmentSubmission $submission): RedirectResponse
+    {
+        $profile = $request->user()->facultyProfile()->firstOrFail();
+        $assessment = $submission->assessment()->firstOrFail();
+        $this->authorizeAssessment($request, $assessment);
+
+        $validated = $request->validate([
+            'score' => ['required', 'numeric', 'min:0', 'max:'.$assessment->max_score],
+            'feedback' => ['nullable', 'string', 'max:2000'],
+        ]);
+
+        $submission->update([
+            'score' => $validated['score'],
+            'feedback' => $validated['feedback'] ?? null,
+            'graded_by' => $profile->id,
+            'graded_at' => now(),
+        ]);
+
+        Grade::updateOrCreate(
+            [
+                'assessment_id' => $assessment->id,
+                'student_profile_id' => $submission->student_profile_id,
+            ],
+            [
+                'course_id' => $assessment->course_id,
+                'faculty_profile_id' => $profile->id,
+                'type' => $assessment->type,
+                'title' => $assessment->title,
+                'score' => $validated['score'],
+                'max_score' => $assessment->max_score,
+                'remarks' => $validated['feedback'] ?? null,
+            ]
+        );
+
+        return redirect()
+            ->route('faculty.assessments.show', $assessment)
+            ->with('status', 'Submission graded and recorded to the student\'s results.');
+    }
+
+    public function downloadSubmission(Request $request, AssessmentSubmission $submission): StreamedResponse
+    {
+        $assessment = $submission->assessment()->firstOrFail();
+        $this->authorizeAssessment($request, $assessment);
+
+        abort_unless(Storage::disk('local')->exists($submission->file_path), 404);
+
+        return Storage::disk('local')->download($submission->file_path, $submission->original_name);
+    }
+
+    public function downloadAssessmentBrief(Request $request, Assessment $assessment): StreamedResponse
+    {
+        $this->authorizeAssessment($request, $assessment);
+
+        abort_if(blank($assessment->attachment_path), 404);
+        abort_unless(Storage::disk('local')->exists($assessment->attachment_path), 404);
+
+        return Storage::disk('local')->download($assessment->attachment_path, $assessment->attachment_name);
+    }
+
+    private function authorizeAssessment(Request $request, Assessment $assessment): \App\Models\FacultyProfile
+    {
+        $profile = $request->user()->facultyProfile()->firstOrFail();
+        abort_unless($profile->courses()->where('courses.id', $assessment->course_id)->exists(), 403);
+
+        return $profile;
     }
 
     public function library(Request $request): View

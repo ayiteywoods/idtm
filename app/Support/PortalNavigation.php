@@ -74,6 +74,7 @@ class PortalNavigation
                     'label' => 'Academics',
                     'items' => [
                         ['label' => 'Course Registration', 'route' => route('student.registration'), 'active' => 'student.registration*', 'icon' => 'clipboard'],
+                        ['label' => 'Assessments', 'route' => route('student.assessments'), 'active' => 'student.assessments*', 'icon' => 'clipboard'],
                         ['label' => 'My Grades', 'route' => route('student.grades'), 'active' => 'student.grades', 'icon' => 'grade'],
                         ['label' => 'Learning Materials', 'route' => route('student.learning-materials'), 'active' => 'student.learning-materials', 'icon' => 'folder'],
                         ['label' => 'Online Library', 'route' => route('student.library'), 'active' => 'student.library', 'icon' => 'library'],
@@ -113,6 +114,7 @@ class PortalNavigation
                     'label' => 'Teaching',
                     'items' => [
                         ['label' => 'My Courses', 'route' => route('faculty.courses.index'), 'active' => 'faculty.courses.*', 'icon' => 'book'],
+                        ['label' => 'Assessments', 'route' => route('faculty.assessments.index'), 'active' => 'faculty.assessments.*', 'icon' => 'clipboard'],
                         ['label' => 'Learning Materials', 'route' => route('faculty.materials.index'), 'active' => 'faculty.materials.*', 'icon' => 'folder'],
                         ['label' => 'Grades & Marks', 'route' => route('faculty.grades.index'), 'active' => 'faculty.grades.*', 'icon' => 'grade'],
                     ],

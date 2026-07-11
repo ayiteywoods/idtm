@@ -3,6 +3,8 @@
 namespace App\Http\Controllers\Student;
 
 use App\Http\Controllers\Controller;
+use App\Models\Assessment;
+use App\Models\AssessmentSubmission;
 use App\Models\ChangeRequest;
 use App\Models\Course;
 use App\Models\CourseRegistration;
@@ -13,6 +15,8 @@ use App\Models\PaymentInstallment;
 use App\Models\Specialization;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Storage;
+use Symfony\Component\HttpFoundation\StreamedResponse;
 use Illuminate\View\View;
 
 class DashboardController extends Controller
@@ -197,6 +201,98 @@ class DashboardController extends Controller
         $books = LibraryBook::where('is_published', true)->latest()->paginate(12);
 
         return view('student.library', compact('books'));
+    }
+
+    public function assessments(Request $request): View
+    {
+        $profile = $request->user()->studentProfile()->firstOrFail();
+        $courseIds = $profile->registrations()->where('is_paid', true)->pluck('course_id');
+
+        $assessments = Assessment::query()
+            ->whereIn('course_id', $courseIds)
+            ->where('is_published', true)
+            ->with(['course', 'submissions' => fn ($query) => $query->where('student_profile_id', $profile->id)])
+            ->orderByRaw('due_at is null, due_at asc')
+            ->latest()
+            ->get();
+
+        return view('student.assessments', compact('profile', 'assessments'));
+    }
+
+    public function submitAssessment(Request $request, Assessment $assessment): RedirectResponse
+    {
+        $profile = $request->user()->studentProfile()->firstOrFail();
+
+        abort_unless($assessment->is_published, 404);
+        $this->ensureRegisteredForAssessment($profile, $assessment);
+
+        $validated = $request->validate([
+            'file' => ['required', 'file', 'max:'.Assessment::UPLOAD_MAX_KB, 'mimes:'.Assessment::UPLOAD_MIMES],
+            'note' => ['nullable', 'string', 'max:1000'],
+        ]);
+
+        $existing = AssessmentSubmission::where('assessment_id', $assessment->id)
+            ->where('student_profile_id', $profile->id)
+            ->first();
+
+        abort_if($existing && $existing->isGraded(), 422, 'This submission has already been graded and cannot be changed.');
+
+        $file = $validated['file'];
+        $path = $file->store("submissions/{$assessment->id}", 'local');
+
+        if ($existing && $existing->file_path !== $path) {
+            Storage::disk('local')->delete($existing->file_path);
+        }
+
+        AssessmentSubmission::updateOrCreate(
+            [
+                'assessment_id' => $assessment->id,
+                'student_profile_id' => $profile->id,
+            ],
+            [
+                'file_path' => $path,
+                'original_name' => $file->getClientOriginalName(),
+                'note' => $validated['note'] ?? null,
+                'submitted_at' => now(),
+                'is_late' => $assessment->isPastDue(),
+            ]
+        );
+
+        return redirect()
+            ->route('student.assessments')
+            ->with('status', $assessment->isPastDue()
+                ? 'Submission received (flagged late).'
+                : 'Submission received successfully.');
+    }
+
+    public function downloadAssessmentBrief(Request $request, Assessment $assessment): StreamedResponse
+    {
+        $profile = $request->user()->studentProfile()->firstOrFail();
+        $this->ensureRegisteredForAssessment($profile, $assessment);
+
+        abort_if(blank($assessment->attachment_path), 404);
+        abort_unless(Storage::disk('local')->exists($assessment->attachment_path), 404);
+
+        return Storage::disk('local')->download($assessment->attachment_path, $assessment->attachment_name);
+    }
+
+    public function downloadSubmission(Request $request, AssessmentSubmission $submission): StreamedResponse
+    {
+        $profile = $request->user()->studentProfile()->firstOrFail();
+        abort_unless($submission->student_profile_id === $profile->id, 403);
+        abort_unless(Storage::disk('local')->exists($submission->file_path), 404);
+
+        return Storage::disk('local')->download($submission->file_path, $submission->original_name);
+    }
+
+    private function ensureRegisteredForAssessment(\App\Models\StudentProfile $profile, Assessment $assessment): void
+    {
+        $isRegistered = $profile->registrations()
+            ->where('course_id', $assessment->course_id)
+            ->where('is_paid', true)
+            ->exists();
+
+        abort_unless($isRegistered, 403, 'You are not registered for this course.');
     }
 
     public function helpDesk(): View
