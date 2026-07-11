@@ -86,7 +86,9 @@ Route::middleware(['auth', 'role:student'])->prefix('portal')->name('student.')-
     Route::get('/assessments/{assessment}/brief', [StudentDashboardController::class, 'downloadAssessmentBrief'])->name('assessments.brief');
     Route::get('/submissions/{submission}/download', [StudentDashboardController::class, 'downloadSubmission'])->name('submissions.download');
     Route::get('/learning-materials', [StudentDashboardController::class, 'learningMaterials'])->name('learning-materials');
+    Route::get('/materials/{material}/download', [StudentDashboardController::class, 'downloadMaterial'])->name('materials.download');
     Route::get('/library', [StudentDashboardController::class, 'library'])->name('library');
+    Route::get('/library/{book}/download', [StudentDashboardController::class, 'downloadLibraryBook'])->name('library.download');
     Route::get('/help-desk', [StudentDashboardController::class, 'helpDesk'])->name('help-desk');
     Route::get('/change-requests', [StudentDashboardController::class, 'changeRequests'])->name('change-requests');
     Route::post('/change-requests', [StudentDashboardController::class, 'storeChangeRequest'])->name('change-requests.store');
@@ -99,6 +101,7 @@ Route::middleware(['auth', 'role:faculty'])->prefix('faculty')->name('faculty.')
     Route::get('/courses/{course}/students', [FacultyDashboardController::class, 'courseStudents'])->name('courses.students');
     Route::get('/materials', [FacultyDashboardController::class, 'materials'])->name('materials.index');
     Route::post('/materials', [FacultyDashboardController::class, 'storeMaterial'])->name('materials.store');
+    Route::get('/materials/{material}/download', [FacultyDashboardController::class, 'downloadMaterial'])->name('materials.download');
     Route::delete('/materials/{material}', [FacultyDashboardController::class, 'destroyMaterial'])->name('materials.destroy');
     Route::get('/grades', [FacultyDashboardController::class, 'grades'])->name('grades.index');
     Route::post('/grades', [FacultyDashboardController::class, 'storeGrade'])->name('grades.store');
@@ -111,5 +114,6 @@ Route::middleware(['auth', 'role:faculty'])->prefix('faculty')->name('faculty.')
     Route::get('/submissions/{submission}/download', [FacultyDashboardController::class, 'downloadSubmission'])->name('submissions.download');
     Route::get('/library', [FacultyDashboardController::class, 'library'])->name('library.index');
     Route::post('/library', [FacultyDashboardController::class, 'storeLibraryBook'])->name('library.store');
+    Route::get('/library/{book}/download', [FacultyDashboardController::class, 'downloadLibraryBook'])->name('library.download');
     Route::delete('/library/{book}', [FacultyDashboardController::class, 'destroyLibraryBook'])->name('library.destroy');
 });

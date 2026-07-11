@@ -8,7 +8,7 @@
 
 @if ($courses->isNotEmpty())
     <x-portal.card title="Upload Material" class="mb-6">
-        <form method="POST" action="{{ route('faculty.materials.store') }}" class="grid gap-4 md:grid-cols-2">
+        <form method="POST" action="{{ route('faculty.materials.store') }}" enctype="multipart/form-data" class="grid gap-4 md:grid-cols-2">
             @csrf
             <div>
                 <label for="course_id" class="block text-sm font-semibold text-slate-700">Course</label>
@@ -30,9 +30,14 @@
                 <input id="title" name="title" type="text" value="{{ old('title') }}" class="mt-2 w-full rounded-lg border border-slate-300 px-4 py-2.5 text-sm" required>
             </div>
             <div class="md:col-span-2">
-                <label for="url" class="block text-sm font-semibold text-slate-700">Resource URL</label>
-                <input id="url" name="url" type="url" value="{{ old('url') }}" class="mt-2 w-full rounded-lg border border-slate-300 px-4 py-2.5 text-sm" placeholder="https://" required>
-                @error('url')<p class="mt-1 text-sm text-rose-600">{{ $message }}</p>@enderror
+                <label for="description" class="block text-sm font-semibold text-slate-700">Description <span class="font-normal text-slate-400">(optional)</span></label>
+                <textarea id="description" name="description" rows="2" class="mt-2 w-full rounded-lg border border-slate-300 px-4 py-3 text-sm">{{ old('description') }}</textarea>
+            </div>
+            <div class="md:col-span-2">
+                <label for="file" class="block text-sm font-semibold text-slate-700">File</label>
+                <input id="file" name="file" type="file" class="mt-2 w-full rounded-lg border border-slate-300 px-3 py-2 text-sm file:mr-3 file:rounded-md file:border-0 file:bg-gold-100 file:px-3 file:py-1.5 file:text-sm file:font-semibold file:text-brand-900 hover:file:bg-gold-200" required>
+                <p class="mt-1 text-xs text-slate-500">PDF, DOC, PPT, XLS, or ZIP · up to 20 MB.</p>
+                @error('file')<p class="mt-1 text-sm text-rose-600">{{ $message }}</p>@enderror
             </div>
             <div class="md:col-span-2 flex justify-end">
                 <x-portal.button type="submit"><x-portal.icon name="plus" class="h-4 w-4" /> Upload Material</x-portal.button>
@@ -62,7 +67,9 @@
                         <td class="px-6 py-4 text-slate-500">{{ $material->created_at->diffForHumans() }}</td>
                         <td class="px-6 py-4">
                             <div class="flex items-center gap-3">
-                                @if ($material->url)
+                                @if ($material->file_path)
+                                    <a href="{{ route('faculty.materials.download', $material) }}" class="text-sm font-medium text-brand-600 hover:text-brand-700">Download</a>
+                                @elseif ($material->url)
                                     <a href="{{ $material->url }}" target="_blank" class="text-sm font-medium text-brand-600 hover:text-brand-700">Open</a>
                                 @endif
                                 <form method="POST" action="{{ route('faculty.materials.destroy', $material) }}" onsubmit="return confirm('Delete this material?')">

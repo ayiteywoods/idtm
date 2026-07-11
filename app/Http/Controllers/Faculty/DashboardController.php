@@ -73,17 +73,21 @@ class DashboardController extends Controller
             'title' => ['required', 'string', 'max:255'],
             'type' => ['required', 'in:material,exam'],
             'description' => ['nullable', 'string', 'max:1000'],
-            'url' => ['required', 'url', 'max:2048'],
+            'file' => ['required', 'file', 'max:'.LearningMaterial::UPLOAD_MAX_KB, 'mimes:'.LearningMaterial::UPLOAD_MIMES],
         ]);
 
         abort_unless($profile->courses()->where('courses.id', $validated['course_id'])->exists(), 403);
+
+        $file = $validated['file'];
+        $path = $file->store("materials/{$validated['course_id']}", 'local');
 
         $profile->learningMaterials()->create([
             'course_id' => $validated['course_id'],
             'title' => $validated['title'],
             'type' => $validated['type'],
             'description' => $validated['description'] ?? null,
-            'url' => $validated['url'],
+            'file_path' => $path,
+            'original_name' => $file->getClientOriginalName(),
             'is_published' => true,
         ]);
 
@@ -97,11 +101,26 @@ class DashboardController extends Controller
         $profile = $request->user()->facultyProfile()->firstOrFail();
         abort_unless($material->faculty_profile_id === $profile->id, 403);
 
+        if ($material->file_path) {
+            Storage::disk('local')->delete($material->file_path);
+        }
+
         $material->delete();
 
         return redirect()
             ->route('faculty.materials.index')
             ->with('status', 'Learning material was deleted successfully.');
+    }
+
+    public function downloadMaterial(Request $request, LearningMaterial $material): StreamedResponse
+    {
+        $profile = $request->user()->facultyProfile()->firstOrFail();
+        abort_unless($material->faculty_profile_id === $profile->id, 403);
+
+        abort_if(blank($material->file_path), 404);
+        abort_unless(Storage::disk('local')->exists($material->file_path), 404);
+
+        return Storage::disk('local')->download($material->file_path, $material->original_name);
     }
 
     public function grades(Request $request): View
@@ -329,15 +348,19 @@ class DashboardController extends Controller
             'title' => ['required', 'string', 'max:255'],
             'author' => ['nullable', 'string', 'max:255'],
             'description' => ['nullable', 'string', 'max:1000'],
-            'external_url' => ['nullable', 'url', 'max:2048'],
+            'file' => ['required', 'file', 'max:'.LibraryBook::UPLOAD_MAX_KB, 'mimes:'.LibraryBook::UPLOAD_MIMES],
         ]);
+
+        $file = $validated['file'];
+        $path = $file->store('library', 'local');
 
         LibraryBook::create([
             'uploaded_by' => $request->user()->id,
             'title' => $validated['title'],
             'author' => $validated['author'] ?? null,
             'description' => $validated['description'] ?? null,
-            'external_url' => $validated['external_url'] ?? null,
+            'file_path' => $path,
+            'original_name' => $file->getClientOriginalName(),
             'is_published' => true,
         ]);
 
@@ -350,10 +373,24 @@ class DashboardController extends Controller
     {
         abort_unless($book->uploaded_by === $request->user()->id, 403);
 
+        if ($book->file_path) {
+            Storage::disk('local')->delete($book->file_path);
+        }
+
         $book->delete();
 
         return redirect()
             ->route('faculty.library.index')
             ->with('status', 'Library book was deleted successfully.');
+    }
+
+    public function downloadLibraryBook(Request $request, LibraryBook $book): StreamedResponse
+    {
+        abort_unless($book->is_published || $book->uploaded_by === $request->user()->id, 403);
+
+        abort_if(blank($book->file_path), 404);
+        abort_unless(Storage::disk('local')->exists($book->file_path), 404);
+
+        return Storage::disk('local')->download($book->file_path, $book->original_name);
     }
 }

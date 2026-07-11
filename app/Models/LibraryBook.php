@@ -7,9 +7,13 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
 
 class LibraryBook extends Model
 {
+    public const UPLOAD_MIMES = 'pdf,doc,docx,ppt,pptx,xls,xlsx,zip,epub';
+
+    public const UPLOAD_MAX_KB = 51200; // 50 MB
+
     protected $fillable = [
         'uploaded_by', 'title', 'author', 'description',
-        'cover_image', 'file_path', 'external_url', 'is_published',
+        'cover_image', 'file_path', 'original_name', 'external_url', 'is_published',
     ];
 
     protected function casts(): array

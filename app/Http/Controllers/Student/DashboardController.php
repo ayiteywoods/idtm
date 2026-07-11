@@ -10,6 +10,7 @@ use App\Models\Course;
 use App\Models\CourseRegistration;
 use App\Models\Faq;
 use App\Models\Grade;
+use App\Models\LearningMaterial;
 use App\Models\LibraryBook;
 use App\Models\PaymentInstallment;
 use App\Models\Specialization;
@@ -196,11 +197,38 @@ class DashboardController extends Controller
         return view('student.learning-materials', compact('profile', 'registrations'));
     }
 
+    public function downloadMaterial(Request $request, LearningMaterial $material): StreamedResponse
+    {
+        $profile = $request->user()->studentProfile()->firstOrFail();
+
+        $isRegistered = $profile->registrations()
+            ->where('course_id', $material->course_id)
+            ->where('is_paid', true)
+            ->exists();
+
+        abort_unless($isRegistered, 403, 'You are not registered for this course.');
+
+        abort_if(blank($material->file_path), 404);
+        abort_unless(Storage::disk('local')->exists($material->file_path), 404);
+
+        return Storage::disk('local')->download($material->file_path, $material->original_name);
+    }
+
     public function library(): View
     {
         $books = LibraryBook::where('is_published', true)->latest()->paginate(12);
 
         return view('student.library', compact('books'));
+    }
+
+    public function downloadLibraryBook(Request $request, LibraryBook $book): StreamedResponse
+    {
+        abort_unless($book->is_published, 404);
+
+        abort_if(blank($book->file_path), 404);
+        abort_unless(Storage::disk('local')->exists($book->file_path), 404);
+
+        return Storage::disk('local')->download($book->file_path, $book->original_name);
     }
 
     public function assessments(Request $request): View

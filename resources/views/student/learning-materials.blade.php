@@ -35,7 +35,9 @@
                                     <p class="text-xs text-slate-500">{{ ucfirst($material->type) }}</p>
                                 </div>
                             </div>
-                            @if ($material->url)
+                            @if ($material->file_path)
+                                <a href="{{ route('student.materials.download', $material) }}" class="rounded-lg bg-gold-500 px-3 py-1.5 text-xs font-semibold text-brand-900 hover:bg-gold-400">Download</a>
+                            @elseif ($material->url)
                                 <a href="{{ $material->url }}" target="_blank" class="rounded-lg bg-gold-500 px-3 py-1.5 text-xs font-semibold text-brand-900 hover:bg-gold-400">Open</a>
                             @endif
                         </div>

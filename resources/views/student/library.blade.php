@@ -37,6 +37,11 @@
             <h3 class="mt-3 font-semibold text-slate-900">{{ $book->title }}</h3>
             @if ($book->author)<p class="text-sm text-slate-500">{{ $book->author }}</p>@endif
             @if ($book->description)<p class="mt-2 text-sm text-slate-600">{{ Str::limit($book->description, 100) }}</p>@endif
+            @if ($book->file_path)
+                <a href="{{ route('student.library.download', $book) }}" class="mt-3 inline-flex items-center gap-1.5 text-sm font-semibold text-brand-600 hover:text-brand-700"><x-portal.icon name="folder" class="h-4 w-4" /> Download</a>
+            @elseif ($book->external_url)
+                <a href="{{ $book->external_url }}" target="_blank" class="mt-3 inline-flex items-center gap-1.5 text-sm font-semibold text-brand-600 hover:text-brand-700">Open resource</a>
+            @endif
         </x-portal.card>
     @empty
         <div class="col-span-full"><x-portal.empty-state title="No library resources yet" description="Books uploaded by faculty will appear here." icon="library" /></div>
